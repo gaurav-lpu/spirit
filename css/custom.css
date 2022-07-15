@@ -1,0 +1,82 @@
+	/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+.lpu-top-bottom{margin-top: 15px; margin-bottom: 55px;}
+.lpu-bottom15{margin-bottom: 15px;}
+.lpu-pad{padding:50px}
+.lpu-top25{padding-top:25px !important;}
+.lpu-left0{padding-left: 0px;}
+.lpu-top-bottom-new{margin-top:50px; margin-bottom:50px;}
+.home-video-desc-big {
+    position: absolute;
+    color: #fff;
+	margin-top: 8%;
+    padding: 44px 23px 13px;
+    font-size: 27px;
+    left: 5%;
+    right: 0;
+    line-height: 37px;
+    z-index: 9;}
+	
+.col-padding {
+    padding: 2rem;
+}
+.section {
+    position: relative;
+    width: 100%;
+    margin: 30px 0px 0px !important;
+    background-color: #F9F9F9;
+    overflow: hidden;
+
+}
+.section, .bg-color-light {
+padding: 40px 0;}
+.head-name {font-weight:bold; margin-bottom: 0; font-size: 18px; margin-top: 7px;}
+.head-name span {font-weight:100; }
+.head-color {color: #1b439b;}
+p {text-align:justify;}
+
+
+.uni-pad {padding: 40px 0;}
+.team-pad {padding:20px 0px;}
+
+.bg-color-light{color:#F9F9F9 !important;}
+.responsive {width: 100%;
+  height: auto;
+}
+border-radius: 5px;
+box-shadow: 0 1px 1px rgba(0,0,0,0.1);}
+.pt10 {padding-top:10px;}
+.pb5 {padding-bottom:5px;}
+.mt5{margin-top: 5px;}
+.pt0{padding-top: 0px;}
+.pb{padding-bottom: 0px;}
+.mb0{margin-bottom: 0px;}
+.heading-block.center.mb20 {
+    margin-top: 35px;
+}
+
+.grid-outer {
+    background: #FFF;
+    box-shadow: 0 0 20px #ccc;
+	padding: 20px;
+}	
+
+.testimonial.testimonial-full {padding:15px;}
+.testimonial-full .head-name {text-align:center;}
+h3 {color:#f08331}
+.project-head{margin-bottom: 5px;
+margin-top: 10px;}
+.mrbottom{margin-bottom:20px;}
+
+.heading-block h3, .heading-block h4, .emphasis-title h1, .emphasis-title h2 {
+    margin-bottom: 0;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #000;
+}
+.mrtop-bottom{margin-top: 20px;
+margin-bottom: 20px;}
