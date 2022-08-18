@@ -90,13 +90,14 @@
 						<div class="col-12">						
 							<div class="grid-inner row align-items-center no-gutters">
 								<div class="entry-image col-md-2">
-									<a href="#"><img src="images/shashin-singh.jpg" ></a>
+									<a href="#"><img src="images/Sheetal.jpg" ></a>
 								</div>
 									<div class="col-md-10 pl-md-4 ">
-									<p class="head-name head-color">Ms. Shashin Singh<br>
-									<span>Coordinator.</span></p>
-									<p class="lpu-top25">Qualification Masters in Health Care Management MBA (Public Health)<br>
-												<strong>Experience </strong> Healthcare Management Mentor, Jhpiego (John Hopkins University Program – Maternal & Neonatal Health)<br>
+									<p class="head-name head-color">Dr Sheetal Mahendher<br>
+									<span>Project Coordinator</span></p>
+									<p class="lpu-top25">
+												<strong>Qualification</strong> MCA, M.Phil(Comp Sc), MBA, PhD(Management)<br>
+												<strong>Experience </strong>Has more than 25 years experience in teaching and research.<br>
 												<strong>Manager </strong> International Relations & Student Service, IFIM Institutions<br>
 												<strong>Manager </strong> International Office, ISBR Business School</p>			
 								</div></div>					
@@ -129,18 +130,18 @@
 							<div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
-										<a href="#"><img src="images/kanagaraj.jpg" ></a>
+										<a href="#"><img src="images/Dr-YLK.jpg" ></a>
 									</div>
-									<p class="head-name center">Dr. Kanagaraj K</p>
+									<p class="head-name center">Dr Y Lakshman Kumar</p>
 								</div>
 							</div>
 							
 								<div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
-										<a href="#"><img src="images/akhitha.jpg" ></a>
+										<a href="#"><img src="images/Veena.jpeg" ></a>
 									</div>
-									<p class="head-name center">Ms. Akhitha N Sukumaran</p>
+									<p class="head-name center">Dr Veena Shenoy</p>
 								</div>
 							</div>
 							
