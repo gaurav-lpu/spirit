@@ -94,12 +94,13 @@
 								</div>
 									<div class="col-md-10 pl-md-4 ">
 									<p class="head-name head-color">Dr Sheetal Mahendher<br>
-									<span>Project Coordinator</span></p>
+									<span>Project Coordinator</span><br>
+									<span>Chair, Research and Consulting</span><br>
+									<span>Professor and Head, Department of Analytics and QT</span></p>
 									<p class="lpu-top25">
 												<strong>Qualification</strong> MCA, M.Phil(Comp Sc), MBA, PhD(Management)<br>
 												<strong>Experience </strong>Has more than 25 years experience in teaching and research.<br>
-												<strong>Manager </strong> International Relations & Student Service, IFIM Institutions<br>
-												<strong>Manager </strong> International Office, ISBR Business School</p>			
+														
 								</div></div>					
 						</div>
 							
