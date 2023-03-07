@@ -117,7 +117,7 @@
 								
 								
 								<li class="menu-item">
-									<a class="menu-link" href="#"><div>Articles</div></a>
+									<a class="menu-link" href="articles.php"><div>Articles</div></a>
 								</li>
 								
 								<li class="menu-item">
