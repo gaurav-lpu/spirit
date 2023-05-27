@@ -112,17 +112,26 @@
 										<li class="menu-item">
 											<a class="menu-link" href="upcoming-events.php"><div>Upcoming</div></a>											
 										</li>
+
 									</ul>
 								</li>
 								
 								
 								<li class="menu-item">
-									<a class="menu-link" href="#"><div>Articles</div></a>
+									<a class="menu-link" href="articles.php"><div>Articles</div></a>
 								</li>
 								
 								<li class="menu-item">
 									<a class="menu-link" href="#"><div>Courses</div></a>
 									<ul class="sub-menu-container">
+
+									<li class="menu-item">
+											<a class="menu-link" href="SPIRIT Table of Achiement_Final_SPIRIT_617779_.pdf"><div>Spirit Table Achievement</div></a>
+										</li>
+
+										<li class="menu-item">
+											<a class="menu-link" href="report617779_.pdf"><div>Reports</div></a>
+										</li>
 
 										<li class="menu-item">
 											<a class="menu-link" href="#"><div>LLL Courses</div></a>
@@ -132,6 +141,24 @@
 										</li>
 									</ul>
 								</li>
+
+
+								<li class="menu-item">
+									<a class="menu-link" href="#"><div>Reports & Achievement</div></a>
+									<ul class="sub-menu-container">
+
+									<li class="menu-item">
+											<a class="menu-link" href="SPIRIT Table of Achiement_Final_SPIRIT_617779_.pdf"><div>Spirit Table Achievement</div></a>
+										</li>
+
+										<li class="menu-item">
+											<a class="menu-link" href="report617779_.pdf"><div>Reports</div></a>
+										</li>
+
+									</ul>
+								</li>
+
+
 								
 								<li class="menu-item">
 									<a class="menu-link" href="gallery.php"><div>Gallery</div></a>
