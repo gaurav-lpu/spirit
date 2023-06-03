@@ -159,6 +159,31 @@
 								</li>
 
 
+								<li class="menu-item">
+									<a class="menu-link" href="#"><div>News Letters</div></a>
+									<ul class="sub-menu-container">
+
+									<li class="menu-item">
+											<a class="menu-link" href="https://paideia-news.com/panepistimio-leykosias/2023/06/01/erasmus-spirit-athlitismos-kai-fysiki-agogi-os-meso-entaksis-kai-anagnorisis-stin-india-indonisia-kai-sri-lanka/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter"><div> ERASMUS + SPIRIT </div></a>
+										</li>
+
+										<li class="menu-item">
+											<a class="menu-link" href="https://ipb.ac.id/news/index/2023/05/dosen-dan-mahasiswa-ipb-university-hadiri-eu-spirit-technical-training-di-cyprus/bf529f7bc9a82a37415f1fd8af596027"><div>IPB University</div></a>
+										</li>
+										
+
+										<li class="menu-item">
+											<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/06/02/1042784/usu-dan-spirit-club-berkunjung-ke-university-of-nicosia-cyprus/"><div>USU dan SPIRIT Club Berkunjung ke University of Nicosia Cyprus</div></a>
+										</li>
+
+										<li class="menu-item">
+											<a class="menu-link" href="https://waspada.id/pendidikan/usu-dan-spirit-club-mengunjungi-university-of-nicosia-cyprus/"><div>USU Dan SPIRIT Club Mengunjungi University Of Nicosia Cyprus</div></a>
+										</li>
+
+									</ul>
+								</li>
+
+
 								
 								<li class="menu-item">
 									<a class="menu-link" href="gallery.php"><div>Gallery</div></a>
