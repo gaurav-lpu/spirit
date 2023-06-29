@@ -38,10 +38,26 @@
 h4 {margin-bottom: 5px; font-size: 16px;}
 .grid-outer {background: #FFF; box-shadow: 0 0 20px #ccc; padding: 20px;}
 </style>
-	  
+
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-273566745-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-273566745-1');
+</script>
+
+
 </head>
 
 <body class="stretched">
+
+
 
 	<!-- Document Wrapper
 	============================================= -->

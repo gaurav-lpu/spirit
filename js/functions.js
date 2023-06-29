@@ -14,6 +14,8 @@ $.fn.scrollEnd = function(callback, timeout) {
 	});
 };
 
+
+
 (function() {
 	let lastTime = 0;
 	let vendors = ['ms', 'moz', 'webkit', 'o'];

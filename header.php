@@ -116,11 +116,11 @@
 									</ul>
 								</li>
 								
-								
+<!-- 								
 								<li class="menu-item">
 									<a class="menu-link" href="articles.php"><div>Articles</div></a>
 								</li>
-								
+								 -->
 								<li class="menu-item">
 									<a class="menu-link" href="#"><div>Courses</div></a>
 									<ul class="sub-menu-container">
@@ -143,7 +143,7 @@
 								</li>
 
 
-								<li class="menu-item">
+								<!-- <li class="menu-item">
 									<a class="menu-link" href="#"><div>Reports & Achievement</div></a>
 									<ul class="sub-menu-container">
 
@@ -156,10 +156,10 @@
 										</li>
 
 									</ul>
-								</li>
+								</li> -->
 
 
-								<li class="menu-item">
+								<!-- <li class="menu-item">
 									<a class="menu-link" href="#"><div>News Letters</div></a>
 									<ul class="sub-menu-container">
 
@@ -181,14 +181,101 @@
 										</li>
 
 									</ul>
-								</li>
+								</li> -->
 
+
+								
+								<!-- <li class="menu-item">
+									<a class="menu-link" href="gallery.php"><div>Gallery</div></a>
+								</li> -->
+								
+								<!--checking this -->
 
 								
 								<li class="menu-item">
-									<a class="menu-link" href="gallery.php"><div>Gallery</div></a>
+									<a class="menu-link" href="#"><div>More</div></a>
+									<ul class="sub-menu-container">
+
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>News Letters</div></a>
+											<ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="https://paideia-news.com/panepistimio-leykosias/2023/06/01/erasmus-spirit-athlitismos-kai-fysiki-agogi-os-meso-entaksis-kai-anagnorisis-stin-india-indonisia-kai-sri-lanka/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter"><div>ERASMUS + SPIRIT</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://ipb.ac.id/news/index/2023/05/dosen-dan-mahasiswa-ipb-university-hadiri-eu-spirit-technical-training-di-cyprus/bf529f7bc9a82a37415f1fd8af596027"><div>IPB University</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/06/02/1042784/usu-dan-spirit-club-berkunjung-ke-university-of-nicosia-cyprus/"><div>USU dan SPIRIT Club Berkunjung ke University of Nicosia Cyprus</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://waspada.id/pendidikan/usu-dan-spirit-club-mengunjungi-university-of-nicosia-cyprus/"><div>USU Dan SPIRIT Club Mengunjungi University Of Nicosia Cyprus</div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="RS USU.pdf"><div>RS USU </div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="https://www.iaea.org/about/overview/sustainable-development-goals/goal-17-partnerships-for-the-goals"><div>International Atomic Energy Agency (IAEA) </div></a>
+												</li>
+
+											</ul>
+										</li>
+										<li class="menu-item">
+											<a class="menu-link" href="articles.php"><div>Articles</div></a>
+											<!-- <ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="#"><div>Universitat Politecnica de Valencia</div></a>
+												</li>
+											</ul> -->
+										</li>
+										<li class="menu-item">
+											<a class="menu-link" href="gallery.php"><div>Gallery</div></a>
+											<!-- <ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="uol.php"><div>Universidade de Lisboa</div></a>
+												</li>
+											</ul> -->
+										</li>
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Reports & Achievement</div></a>
+											<ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="SPIRIT Table of Achiement_Final_SPIRIT_617779_.pdf"><div>Spirit Table Achievement</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="report617779_.pdf"><div>Reports</div></a>
+												</li>
+											</ul>
+										</li>
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Testimonial</div></a>
+											<!-- <ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="nicosia.php"><div>University of Nicosia</div></a>
+												</li>
+											</ul> -->
+										</li>
+										<!-- <li class="menu-item">
+											<a class="menu-link" href="#"><div>Indonesia</div></a>
+											<ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="usu.php"><div>Univeristas Sumatera Utara</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="usk.php"><div>University Syiah Kuala</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="ipb.php"><div>Insititut Pertanian Bogor University</div></a>
+												</li>
+											</ul>
+										</li> -->
+									</ul>
 								</li>
 								
+								<!-- checking this -->
+
 							</ul>
 
 						</nav><!-- #primary-menu end -->
@@ -196,4 +283,6 @@
 					</div>
 				</div>
 			</div>
-		</header><!-- #header end -->
+		</header>
+		
+		<!-- #header end -->

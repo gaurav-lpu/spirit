@@ -14,7 +14,7 @@
 	<link rel="stylesheet" href="css/swiper.css" type="text/css" />
 	<!-- Crowdfunding Demo Specific Stylesheet -->
 	<link rel="stylesheet" href="demos/crowdfunding/crowdfunding.css" type="text/css" />
-	<link rel="stylesheet" href="demos/crowdfunding/css/fonts.css" type="text/css" />	<!-- / -->
+	<link rel="stylesheet" href="demos/crowdfunding/css/fonts.css" type="text/css" />	
 	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
 	<link rel="stylesheet" href="css/animate.css" type="text/css" />
 	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
@@ -32,9 +32,25 @@
 	============================================= -->
 	<title>Erasmus + Spirit</title>
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-273566745-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-273566745-1');
+</script>
+
+
 </head>
 
+
+
 <body class="stretched">
+
+
 
 	<!-- Document Wrapper
 	============================================= -->
