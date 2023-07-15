@@ -146,9 +146,9 @@
 							<div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
-										<a href="#"><img src="images/Dr-YLK.jpg" ></a>
+										<a href="#"><img src="images/Dr.Anand Agrawal.jpg" ></a>
 									</div>
-									<p class="head-name center">Dr Y Lakshman Kumar</p>
+									<p class="head-name center">Dr.Anand Agrawal</p>
 								</div>
 							</div>
 							
