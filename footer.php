@@ -17,9 +17,12 @@
 
 				</div>
 				
-			</div><!-- #copyrights end -->
+			</div>
+			<!-- #copyrights end -->
+			
 				<div id="copyrights" class="col-md-12">
-				<div style="background-color:#000; line-height: 20px;" class="col-md-12 d-md-flex flex-md-column align-items-md-end "><div class="copyrights-menu copyright-links" style="padding-top:15px; margin: 0 auto; padding: 22px;">
+				<div style="background-color:#000; line-height: 25px;" class="col-md-12 d-md-flex flex-md-column align-items-md-end "><div class="copyrights-menu copyright-links" style="padding-top:15px; margin: 0 auto; padding: 22px;">
 								<a href="about.php">About</a>/<a href="#">Features</a>/<a href="#">FAQs</a>/<a href="privacy-policy.php">Privacy Policy</a>/<a href="contact.php">Contact</a>
 							</div></div></div>
-		</footer><!-- #footer end -->
+		</footer>
+		<!-- #footer end -->
