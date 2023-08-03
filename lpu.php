@@ -229,7 +229,8 @@ Excellence in Research.</p>
 			</div>
 			
 			
-		</section><!-- #content end -->
+		</section>
+		<!-- #content end -->
 		
 			<div  class="section mt-0 lpu-pad">
 					<div class="container">
