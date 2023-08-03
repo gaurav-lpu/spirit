@@ -150,75 +150,48 @@
             padding: 15px;
         }
 
-
-
-
-        /* Popup Css start here
-		============================================================================ */
-        
-        /* Styles for the pop-up container 
-        .popup {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color:  #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 9999;
-}
-        .popup-container {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.5);
-        }
-*/
-        /* Styles for the pop-up content 
-        .popup-content {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 5px;
-        }
-    */
-        /* Popup Css end here
+        /* Popup Css Start here
 		============================================================================ */
 
         /* Styles for the pop-up container */
-        .popup {
+
+/* Styles for the pop-up */
+.popup {
+    display: flex;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color:  #fff;
-    display: flex;
+    background-color:  rgba(0, 0, 0, 0.7);
     justify-content: center;
     align-items: center;
     z-index: 9999;
-}
-        .popup-container {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.5);
-            z-index: 9999;
-        }
-
-        /* Styles for the pop-up content */
-        .popup-content {
+  }
+  
+  .popup-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .close {
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  .popup-content {
             position: absolute;
             top: 50%;
             left: 50%;
@@ -261,7 +234,8 @@
     border-radius: 3px;
 }
 
-
+ /* Popup Css end here
+		============================================================================ */
 
     </style>
 </head>
@@ -341,37 +315,21 @@
 
         <!--pop-up email id
         =========================================================-->
-        <!-- <div id="popup">
-        <div class="popup-container" id="popupContainer">
-        <div class="popup-content">
-            <h2>Welcome to SPIRIT ERASMUS +</h2>
-            <p>Please enter your email address:</p>
-            <form action="save_email.php" method="post">
-                <input type="email" name="email" placeholder="Enter your email" required>
-                <button type="submit">Subscribe</button>
-            </form>
-</div>
-</div>
-</div> -->
-
-<div id="popup">
-<div class="popup-container" id="popupContainer">
-        <div class="popup-content">
-        <h2>Welcome to SPIRIT ERASMUS +</h2>
-            <p>Please enter your email address:</p>
-            <form id="emailForm">
-                <input type="email" name="email" id="emailInput" placeholder="Enter your email" required>
-                <button type="submit">Subscribe</button>
-            </form>
-        </div>
+        <div class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h4>Enter your email address</h4>
+      <input type="email" id="emailInput" placeholder="Your email">
+      <button type="submit">Submit</button>
     </div>
-</div>
+  </div>
+
     <!--pop-up email id
         =========================================================-->
 
         <!-- Content
 		============================================= -->
-        <section id="content">
+        <!-- <section id="content">
             <div class="content-wrap pt50">
                 <div class="container mw-md ">
                     <div class="row justify-content-between align-items-center">
@@ -384,7 +342,7 @@
                             <div class="fslider testimonial testimonial-full grid-outer " data-animation="fade"
                                 data-arrows="false">
                                 <div class="flexslider">
-                                    <div class="slider-wrap">
+                                    <div class="slider-wrap"> -->
 
                                         <!--<div class="slide">
 												<div class="testi-content">
@@ -392,7 +350,7 @@
 													<p class="center">(MAY 2021)</p>
 												</div>
 											</div>-->
-                                        <div class="slide">
+                                        <!-- <div class="slide">
                                             <div class="testi-content">
                                                 <h2 class="mb0">Curriculum development strategy meeting for selected
                                                     modular courses</h2>
@@ -423,7 +381,7 @@
                                                 <h2 class="mb0">Training on VLE by UNIC</h2>
                                                 <p class="center">(SEPT, NOV 2021)</p>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!--<div class="slide">
 												<div class="testi-content">
 													<h2 class="mb0">Round tables, job fairs, participation in sport events to raise awareness of
@@ -431,12 +389,12 @@ benefits of sport and healthy lifestyle.</h2>
 													<p class="center">(NOV, DEC 2021)</p>
 												</div>
 											</div>-->
-                                    </div>
+                                    <!-- </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
                 <section class="about-section-cl" id="content">
@@ -636,12 +594,12 @@ benefits of sport and healthy lifestyle.</h2>
 
 
 
-    <section class="pt50 pb50" id="content">
+     <section class="pt50 pb50" id="content">
         <div class="content-wrap">
             <div class="heading-block center">
                 <h3 class="nott center" style="font-size: 35px; letter-spacing: -1px;">Our Partners </span></h3>
             </div>
-            <div id="oc-clients-full" class="owl-carousel owl-carousel-full image-carousel carousel-widget"
+            <!-- <div id="oc-clients-full" class="owl-carousel owl-carousel-full image-carousel carousel-widget"
                 data-margin="30" data-nav="true" data-pagi="false" data-autoplay="5000" data-items-xs="3"
                 data-items-sm="3" data-items-md="5" data-items-lg="6" data-items-xl="7">
                 <div class="oc-item grid-outer"><a href="#"><img src="images/logo/1.jpg" alt="Logo"></a></div>
@@ -656,11 +614,18 @@ benefits of sport and healthy lifestyle.</h2>
                 <div class="oc-item grid-outer"><a href="#"><img src="images/logo/9.jpg" alt="Logo"></a></div>
                 <div class="oc-item grid-outer"><a href="#"><img src="images/logo/10.jpg" alt="Logo"></a></div>
                 <div class="oc-item grid-outer"><a href="#"><img src="images/logo/11.jpg" alt="Logo"></a></div>
-            </div>
+            </div> -->
         </div>
-    </section>
 
-    
+    </section> 
+
+
+
+
+
+
+
+ 
     <!-- Footer
 		============================================= -->
     <?php include('footer.php');?>
@@ -718,82 +683,49 @@ benefits of sport and healthy lifestyle.</h2>
             });
         });
     </script>
-    <script>
- // Function to set a cookie with the given name and value
-        // function setCookie(name, value) {
-        //     var date = new Date();
-        //     date.setTime(date.getTime() + (365 * 24 * 60 * 60 * 1000)); // Set cookie expiration to 1 year
-        //     var expires = "expires=" + date.toUTCString();
-        //     document.cookie = name + "=" + value + ";" + expires + ";path=/";
-        // }
 
-        // Function to get the value of a cookie by name
-        // function getCookie(name) {
-        //     var value = "; " + document.cookie;
-        //     var parts = value.split("; " + name + "=");
-        //     if (parts.length === 2) return parts.pop().split(";").shift();
-        // }
-
-        //Show the pop-up if the cookie is not set 
-        // window.onload = function() {
-        //     var popupContainer = document.getElementById("popupContainer");
-        //     if (!getCookie("popupShown")) {
-        //         popupContainer.style.display = "block";
-        //         setCookie("popupShown", "true"); // Set the cookie to indicate that the pop-up has been shown
-        //     }
-        // };
-
-
-
-
-        // Function to set a cookie with the given name and value
-        function setCookie(name, value) {
-            var date = new Date();
-            date.setTime(date.getTime() + (365 * 24 * 60 * 60 * 1000)); // Set cookie expiration to 1 year
-            var expires = "expires=" + date.toUTCString();
-            document.cookie = name + "=" + value + ";" + expires + ";path=/";
-        }
-
-        // Function to get the value of a cookie by name
-        function getCookie(name) {
-            var value = "; " + document.cookie;
-            var parts = value.split("; " + name + "=");
-            if (parts.length === 2) return parts.pop().split(";").shift();
-        }
-
-        // Show the pop-up if the cookie is not set
-        window.onload = function() {
-            var popupContainer = document.getElementById("popupContainer");
-            if (!getCookie("popupShown")) {
-                popupContainer.style.display = "block";
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+    const popup = document.querySelector(".popup");
+    const closeBtn = document.querySelector(".close");
+    const submitBtn = document.getElementById("submitBtn");
+    const emailInput = document.getElementById("emailInput");
+  
+    // Show the pop-up when the page loads
+    popup.style.display = "block";
+  
+    // Close the pop-up when the close button is clicked
+    closeBtn.addEventListener("click", function () {
+      popup.style.display = "none";
+    });
+  
+    // Close the pop-up and store email when the submit button is clicked
+    submitBtn.addEventListener("click", function () {
+      const email = emailInput.value.trim();
+      if (email !== "") {
+        // Send the email data to the server using AJAX
+        const xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState === XMLHttpRequest.DONE) {
+            if (xhr.status === 200) {
+              // Email stored successfully, close the pop-up
+              popup.style.display = "none";
+            } else {
+              // Error handling
+              alert("Failed to store the email. Please try again later.");
             }
+          }
         };
-
-        // Handle form submission
-        document.getElementById("emailForm").addEventListener("submit", function(event) {
-            event.preventDefault();
-
-            var emailInput = document.getElementById("emailInput");
-            var email = emailInput.value;
-
-            // Send the email to the server via AJAX (you can use jQuery for simplicity)
-            // Replace "save_email.php" with the path to your PHP file
-            $.ajax({
-                type: "POST",
-                url: "save_email.php",
-                data: { email: email },
-                success: function(response) {
-                    // On successful submission, hide the pop-up and set the cookie
-                    document.getElementById("popupContainer").style.display = "none";
-                    setCookie("popupShown", "true"); // Set the cookie to indicate that the pop-up has been shown
-                },
-                error: function(xhr, status, error) {
-                    // Handle errors if needed
-                }
-            });
-        });
-    </script>
-
+        xhr.open("POST", "store_email.php", true);
+        xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhr.send("email=" + encodeURIComponent(email));
+      } else {
+        alert("Please enter a valid email address.");
+      }
+    });
+  });
+  </script>
+    
     <!-- Add jQuery library -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 

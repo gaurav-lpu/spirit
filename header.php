@@ -144,10 +144,10 @@
 										</li>
 
 										<li class="menu-item">
-											<a class="menu-link" href="courses2.php"><div>Life Long Learning Courses</div></a>
+											<a class="menu-link" href="#"><div>Life Long Learning Courses</div></a><!--once we received the courses list will pull it here courses2.php-->
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="courses.php"><div>Modular Courses</div></a>
+											<a class="menu-link" href="#"><div>Modular Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
 										</li>
 									</ul>
 								</li>
@@ -175,6 +175,18 @@
 
 												<li class="menu-item">
 													<a class="menu-link" href="https://www.iaea.org/about/overview/sustainable-development-goals/goal-17-partnerships-for-the-goals"><div>International Atomic Energy Agency (IAEA) </div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="USU SC 2023.pdf"><div>USU Summer Course 2023 Opens Insights In The ASIA Region </div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="https://waspada.id/pendidikan/usu-summer-course-2023-membuka-wawasan-di-wilayah-asia/"><div>WASPADA.id</div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/07/31/1044805/usu-summer-course-2023-membuka-wawasan-di-wilayah-asia/"><div>ANALISA DAILY</div></a>
 												</li>
 
 											</ul>
