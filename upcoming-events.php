@@ -65,9 +65,11 @@ h4 {margin-bottom: 5px; font-size: 16px;}
 		<section id="page-title" class="page-title-parallax page-title-dark" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px 55.082px;">			
 			<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);z-index:0;"></div>
 			<div class="container clearfix">
-				<div class="float-left slider-caption ">
-					<h1>Upcoming Events</h1>
-				</div>
+			<h3>Upcoming LISBON Event 11 September 2023 to 15 September 2023</h3>
+
+				<!-- <div class="float-left slider-caption ">
+					<h3>Upcoming LISBON Event 11 Sept 2023 to 15 Sept 2023</h3>
+				</div> -->
 			</div>
 		</section>
 		
@@ -75,7 +77,7 @@ h4 {margin-bottom: 5px; font-size: 16px;}
 		<section class="lpu-top-bottom-new">
 			<div class="container clearfix grid-outer">
 				
-				<h3>SPIRIT International LISBON Event</h3>
+				<h3>SPIRIT International LISBON Event </h3>
 				<h1>Inspiring Inclusion in Sports: Success Stories, Practical Skills and Management Strategies</h1>
 				<img src="lisbon5.jpg" alt="Lisbon Event">
 				</div>
