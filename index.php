@@ -318,6 +318,7 @@
         <div class="popup">
     <div class="popup-content">
       <span class="close">&times;</span>
+      <h4>Would You Like To Receive Our News Letter Updates</h4>
       <h4>Enter your email address</h4>
       <input type="email" id="emailInput" placeholder="Your email">
       <button type="submit">Submit</button>
