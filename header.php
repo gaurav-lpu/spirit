@@ -125,7 +125,19 @@
 										</li>
 									</ul>
 								</li>
-								
+								<li class="menu-item">
+									<a class="menu-link" href="#"><div>Spirit Club</div></a>
+									<!-- <ul class="sub-menu-container">
+									<li class="menu-item">
+											<a class="menu-link" href="#"><div>Life Long Learning Courses</div></a>
+										</li>
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Academic Courses</div></a>
+										</li>
+									</ul> -->
+								</li>
+
+
 <!-- 								
 								<li class="menu-item">
 									<a class="menu-link" href="articles.php"><div>Articles</div></a>
@@ -133,6 +145,28 @@
 								 -->
 								<li class="menu-item">
 									<a class="menu-link" href="#"><div>Courses</div></a>
+									<ul class="sub-menu-container">
+
+									<!-- <li class="menu-item">
+											<a class="menu-link" href="SPIRIT Table of Achiement_Final_SPIRIT_617779_.pdf"><div>Spirit Table Achievement</div></a>
+										</li>
+
+										<li class="menu-item">
+											<a class="menu-link" href="report617779_.pdf"><div>Reports</div></a>
+										</li> -->
+
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Life Long Learning Courses</div></a><!--once we received the courses list will pull it here courses2.php-->
+										</li>
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Academic Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
+										</li>
+									</ul>
+								</li>
+												
+
+								<!-- <li class="menu-item">
+									<a class="menu-link" href="#"><div>Reports & Achievement</div></a>
 									<ul class="sub-menu-container">
 
 									<li class="menu-item">
@@ -143,17 +177,48 @@
 											<a class="menu-link" href="report617779_.pdf"><div>Reports</div></a>
 										</li>
 
-										<li class="menu-item">
-											<a class="menu-link" href="#"><div>Life Long Learning Courses</div></a><!--once we received the courses list will pull it here courses2.php-->
-										</li>
-										<li class="menu-item">
-											<a class="menu-link" href="#"><div>Modular Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
-										</li>
 									</ul>
-								</li>
+								</li> -->
 
 
+								<!-- <li class="menu-item">
+									<a class="menu-link" href="#"><div>News Letters</div></a>
+									<ul class="sub-menu-container">
+
+									<li class="menu-item">
+											<a class="menu-link" href="https://paideia-news.com/panepistimio-leykosias/2023/06/01/erasmus-spirit-athlitismos-kai-fysiki-agogi-os-meso-entaksis-kai-anagnorisis-stin-india-indonisia-kai-sri-lanka/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter"><div> ERASMUS + SPIRIT </div></a>
+										</li>
+
+										<li class="menu-item">
+											<a class="menu-link" href="https://ipb.ac.id/news/index/2023/05/dosen-dan-mahasiswa-ipb-university-hadiri-eu-spirit-technical-training-di-cyprus/bf529f7bc9a82a37415f1fd8af596027"><div>IPB University</div></a>
+										</li>
+										
+
+										<li class="menu-item">
+											<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/06/02/1042784/usu-dan-spirit-club-berkunjung-ke-university-of-nicosia-cyprus/"><div>USU dan SPIRIT Club Berkunjung ke University of Nicosia Cyprus</div></a>
+										</li>
+
+										<li class="menu-item">
+											<a class="menu-link" href="https://waspada.id/pendidikan/usu-dan-spirit-club-mengunjungi-university-of-nicosia-cyprus/"><div>USU Dan SPIRIT Club Mengunjungi University Of Nicosia Cyprus</div></a>
+										</li>
+
+									</ul>
+								</li> -->
+
+
+								
+								<!-- <li class="menu-item">
+									<a class="menu-link" href="gallery.php"><div>Gallery</div></a>
+								</li> -->
+								
+								<!--checking this -->
+
+								
 								<li class="menu-item">
+									<a class="menu-link" href="#"><div>Media</div></a>
+									<ul class="sub-menu-container">
+
+									<li class="menu-item">
 											<a class="menu-link" href="#"><div>News Letters</div></a>
 											<ul class="sub-menu-container">
 												<li class="menu-item">
@@ -209,70 +274,7 @@
 												<li class="menu-item">
 													<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/07/31/1044805/usu-summer-course-2023-membuka-wawasan-di-wilayah-asia/"><div>ANALISA DAILY</div></a>
 												</li>
-												
-												<li class="menu-item">
-											<a class="menu-link" href="#"><div>Testimonial</div></a>
-											<!-- <ul class="sub-menu-container">
-												<li class="menu-item">
-													<a class="menu-link" href="nicosia.php"><div>University of Nicosia</div></a>
-												</li>
-											</ul> -->
-										</li>
-
-								<!-- <li class="menu-item">
-									<a class="menu-link" href="#"><div>Reports & Achievement</div></a>
-									<ul class="sub-menu-container">
-
-									<li class="menu-item">
-											<a class="menu-link" href="SPIRIT Table of Achiement_Final_SPIRIT_617779_.pdf"><div>Spirit Table Achievement</div></a>
-										</li>
-
-										<li class="menu-item">
-											<a class="menu-link" href="report617779_.pdf"><div>Reports</div></a>
-										</li>
-
-									</ul>
-								</li> -->
-
-
-								<!-- <li class="menu-item">
-									<a class="menu-link" href="#"><div>News Letters</div></a>
-									<ul class="sub-menu-container">
-
-									<li class="menu-item">
-											<a class="menu-link" href="https://paideia-news.com/panepistimio-leykosias/2023/06/01/erasmus-spirit-athlitismos-kai-fysiki-agogi-os-meso-entaksis-kai-anagnorisis-stin-india-indonisia-kai-sri-lanka/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter"><div> ERASMUS + SPIRIT </div></a>
-										</li>
-
-										<li class="menu-item">
-											<a class="menu-link" href="https://ipb.ac.id/news/index/2023/05/dosen-dan-mahasiswa-ipb-university-hadiri-eu-spirit-technical-training-di-cyprus/bf529f7bc9a82a37415f1fd8af596027"><div>IPB University</div></a>
-										</li>
-										
-
-										<li class="menu-item">
-											<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/06/02/1042784/usu-dan-spirit-club-berkunjung-ke-university-of-nicosia-cyprus/"><div>USU dan SPIRIT Club Berkunjung ke University of Nicosia Cyprus</div></a>
-										</li>
-
-										<li class="menu-item">
-											<a class="menu-link" href="https://waspada.id/pendidikan/usu-dan-spirit-club-mengunjungi-university-of-nicosia-cyprus/"><div>USU Dan SPIRIT Club Mengunjungi University Of Nicosia Cyprus</div></a>
-										</li>
-
-									</ul>
-								</li> -->
-
-
-								
-								<!-- <li class="menu-item">
-									<a class="menu-link" href="gallery.php"><div>Gallery</div></a>
-								</li> -->
-								
-								<!--checking this -->
-
-								
-								<li class="menu-item">
-									<a class="menu-link" href="#"><div>More</div></a>
-									<ul class="sub-menu-container">
-
-										
+</ul>
 
 										<li class="menu-item">
 											<a class="menu-link" href="articles.php"><div>Articles</div></a>
@@ -282,6 +284,36 @@
 												</li>
 											</ul> -->
 										</li>
+
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Testimonial</div></a>
+											<!-- <ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="nicosia.php"><div>University of Nicosia</div></a>
+												</li>
+											</ul> -->
+										</li>
+
+
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Youtube</div></a>
+											<!-- <ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="nicosia.php"><div>University of Nicosia</div></a>
+												</li>
+											</ul> -->
+										</li>
+
+
+										<!-- <li class="menu-item">
+											<a class="menu-link" href="#"><div>Spirit Club</div></a>
+											 <ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="nicosia.php"><div>University of Nicosia</div></a>
+												</li>
+											</ul> 
+										</li> -->
+
 										<li class="menu-item">
 											<a class="menu-link" href="gallery.php"><div>Gallery</div></a>
 											<!-- <ul class="sub-menu-container">
