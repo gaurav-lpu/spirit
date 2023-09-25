@@ -241,9 +241,9 @@
 											<a class="menu-link" href="#"><div>Asia Partners</div></a>
 											<ul class="sub-menu-container">
 												<li class="menu-item">
-												<a class="menu-link" href="Project Update 1.pdf"><div>ENPRENDIA</div></a>
-												<a class="menu-link" href="Project Update 2.pdf"><div>Project Updates</div></a>
-                                                <a class="menu-link" href="Project Update 3.pdf"><div>SPIRIT ERASMUS 2022</div></a>
+												<a class="menu-link" href="Project Update 1.pdf"><div>1st NewsLetter</div></a>
+												<a class="menu-link" href="Project Update 3.pdf"><div>2nd NewsLetter</div></a>
+												<a class="menu-link" href="Project Update 2.pdf"><div>3rd NewsLetter</div></a>
 												</li>
 											</ul>
 										</li>
@@ -274,7 +274,16 @@
 												<li class="menu-item">
 													<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/07/31/1044805/usu-summer-course-2023-membuka-wawasan-di-wilayah-asia/"><div>ANALISA DAILY</div></a>
 												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="newsletter about Lisbon training.pdf"><div>NewsLetter Lisbon training</div></a>
+												</li>
+
 </ul>
+
+
+
+</li>
 
 										<li class="menu-item">
 											<a class="menu-link" href="articles.php"><div>Articles</div></a>
@@ -282,26 +291,51 @@
 												<li class="menu-item">
 													<a class="menu-link" href="#"><div>Universitat Politecnica de Valencia</div></a>
 												</li>
+
+<div id= "show">
+          <video width="320" height="240" src="file:///F:/test.mp4" type="video/mp4" controls>
+          </video>
+      </div>
+												
 											</ul> -->
 										</li>
 
 										<li class="menu-item">
 											<a class="menu-link" href="#"><div>Testimonial</div></a>
-											<!-- <ul class="sub-menu-container">
+											<ul class="sub-menu-container">
 												<li class="menu-item">
-													<a class="menu-link" href="nicosia.php"><div>University of Nicosia</div></a>
+													<a class="menu-link" href="https://drive.google.com/file/d/1lwd0buo7yLbb8ola2bDLRro64UKfm9MG/view?usp=sharing"><div>USU Summer course 2023</div></a>
 												</li>
-											</ul> -->
+
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/1uhihOYNcjilORMXhBBTxYqMEydz-BE3G/view?usp=sharing"><div>Testimonial 1</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/1d7VAWG3tz8Z365ZS-_GwczhnI-Qr9vkd/view?usp=sharing"><div>Testimonial 2</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/1XJhX-gWUkD0EViWksD82SnRnYWNeht_Q/view?usp=sharing"><div>Testimonial 3</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/12i1TaOtDx6IEDuA0K68L48DUxplQblM7/view?usp=sharing"><div>Testimonial 3</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/112PdVo2ToKKOLtS8cNboQgv2BeQXHPjJ/view?usp=sharing"><div>Testimonial 4</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/1_RpBxa6atoZxWFCC2munv4o4tRWH3c4P/view?usp=sharing"><div>Testimonial 5</div></a>
+												</li>
+</ul> 
 										</li>
 
 
 										<li class="menu-item">
 											<a class="menu-link" href="#"><div>Youtube</div></a>
-											<!-- <ul class="sub-menu-container">
+											 <ul class="sub-menu-container">
 												<li class="menu-item">
-													<a class="menu-link" href="nicosia.php"><div>University of Nicosia</div></a>
+													<a class="menu-link" href="https://youtu.be/66oii02uO_U"><div>USU Summer course 2023</div></a>
 												</li>
-											</ul> -->
+											</ul>
 										</li>
 
 

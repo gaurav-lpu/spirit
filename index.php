@@ -657,40 +657,40 @@ benefits of sport and healthy lifestyle.</h2>
      <div class="slider-container">
         <div class="slider">
             <div class="slide">
-            <a href="#"><img src="images/logo/1.jpg" alt="Logo">
+            <a href="https://bvuniversity.edu.in/"><img src="images/logo/1.jpg" alt="Logo">
             </div>
             <div class="slide">
-            <a href="#"><img src="images/logo/2.jpg" alt="Logo">
+            <a href="https://usu.ac.id/"><img src="images/logo/2.jpg" alt="Logo">
                 </div>
             <div class="slide">
-            <a href="#"><img src="images/logo/3.jpg" alt="Logo">
+            <a href="https://unsyiah.ac.id/en/"><img src="images/logo/3.jpg" alt="Logo">
                 </div>
                 <div class="slide">
-                <a href="#"><img src="images/logo/4.jpg" alt="Logo">
+                <a href="http://www.upv.es/"><img src="images/logo/4.jpg" alt="Logo">
                 </div>
                 <div class="slide">
-                <a href="#"><img src="images/logo/5.jpg" alt="Logo">
+                <a href="https://www.pdn.ac.lk/"><img src="images/logo/5.jpg" alt="Logo">
                 </div>
                 <div class="slide">
-                <a href="#"><img src="images/logo/6.jpg" alt="Logo">
+                <a href="https://tecnico.ulisboa.pt/en/"><img src="images/logo/6.jpg" alt="Logo">
                 </div>
                 <div class="slide">
-                <a href="#"><img src="images/logo/7.jpg" alt="Logo">
+                <a href="https://www.unic.ac.cy/"><img src="images/logo/7.jpg" alt="Logo">
                 </div>
                 <div class="slide">
-                <a href="#"><img src="images/logo/8.jpg" alt="Logo">
+                <a href="https://www.sab.ac.lk/"><img src="images/logo/8.jpg" alt="Logo">
                 </div>
                 <div class="slide">
-                <a href="#"><img src="images/logo/9.jpg" alt="Logo">
+                <a href="https://www.isbr.in"><img src="images/logo/9.jpg" alt="Logo">
                 </div>
                 <div class="slide">
-                <a href="#"><img src="images/logo/10.jpg" alt="Logo">
+                <a href="https://ipb.ac.id"><img src="images/logo/10.jpg" alt="Logo">
                 </div>
                 <div class="slide">
                 <a href="demo.edulab.in"><img src="images/logo/11.jpg" alt="Logo">
                 </div>
                 <div class="slide">
-                <a href="#"><img src="images/logo/lpu.jpg" alt="Image 3">
+                <a href="www.lpu.in"><img src="images/logo/lpu.jpg" alt="Image 3">
                 </div>
         </div>
     </div>
