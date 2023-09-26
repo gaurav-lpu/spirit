@@ -125,7 +125,19 @@
 										</li>
 									</ul>
 								</li>
-								
+								<li class="menu-item">
+									<a class="menu-link" href="#"><div>Spirit Club</div></a>
+									<!-- <ul class="sub-menu-container">
+									<li class="menu-item">
+											<a class="menu-link" href="#"><div>Life Long Learning Courses</div></a>
+										</li>
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Academic Courses</div></a>
+										</li>
+									</ul> -->
+								</li>
+
+
 <!-- 								
 								<li class="menu-item">
 									<a class="menu-link" href="articles.php"><div>Articles</div></a>
@@ -135,89 +147,23 @@
 									<a class="menu-link" href="#"><div>Courses</div></a>
 									<ul class="sub-menu-container">
 
-									<li class="menu-item">
+									<!-- <li class="menu-item">
 											<a class="menu-link" href="SPIRIT Table of Achiement_Final_SPIRIT_617779_.pdf"><div>Spirit Table Achievement</div></a>
 										</li>
 
 										<li class="menu-item">
 											<a class="menu-link" href="report617779_.pdf"><div>Reports</div></a>
-										</li>
+										</li> -->
 
 										<li class="menu-item">
 											<a class="menu-link" href="#"><div>Life Long Learning Courses</div></a><!--once we received the courses list will pull it here courses2.php-->
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="#"><div>Modular Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
+											<a class="menu-link" href="#"><div>Academic Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
 										</li>
 									</ul>
 								</li>
-
-
-								<li class="menu-item">
-											<a class="menu-link" href="#"><div>News Letters</div></a>
-											<ul class="sub-menu-container">
-												<li class="menu-item">
-													<a class="menu-link" href="https://paideia-news.com/panepistimio-leykosias/2023/06/01/erasmus-spirit-athlitismos-kai-fysiki-agogi-os-meso-entaksis-kai-anagnorisis-stin-india-indonisia-kai-sri-lanka/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter"><div>ERASMUS + SPIRIT</div></a>
-												</li>
-
-												<li class="menu-item">
-											<a class="menu-link" href="#"><div>IPB University</div></a>
-											<ul class="sub-menu-container">
-												<li class="menu-item">
-												<a class="menu-link" href="https://ipb.ac.id/news/index/2023/05/dosen-dan-mahasiswa-ipb-university-hadiri-eu-spirit-technical-training-di-cyprus/bf529f7bc9a82a37415f1fd8af596027"><div>IPB University Technical Training in Cyprus</div></a>
-												<a class="menu-link" href="https://ipb.ac.id/news/index/2023/09/ipb-spirit-project-held-summer-course-program-and-sundanes-traditional-games-of-physical-activities-in-kampung-budaya-district-of-bogor/8c701e514cbf5efd1adce76d6a6c2e99"><div>IPB Summer Course Program</div></a>
-												</li>
-											</ul>
-										</li>
-											
-										
-
-										<li class="menu-item">
-											<a class="menu-link" href="#"><div>Asia Partners</div></a>
-											<ul class="sub-menu-container">
-												<li class="menu-item">
-												<a class="menu-link" href="Project Update 1.pdf"><div>ENPRENDIA</div></a>
-												<a class="menu-link" href="Project Update 2.pdf"><div>Project Updates</div></a>
-                                                <a class="menu-link" href="Project Update 3.pdf"><div>SPIRIT ERASMUS 2022</div></a>
-												</li>
-											</ul>
-										</li>
-
-												<li class="menu-item">
-													<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/06/02/1042784/usu-dan-spirit-club-berkunjung-ke-university-of-nicosia-cyprus/"><div>USU dan SPIRIT Club Berkunjung ke University of Nicosia Cyprus</div></a>
-												</li>
-												<li class="menu-item">
-													<a class="menu-link" href="https://waspada.id/pendidikan/usu-dan-spirit-club-mengunjungi-university-of-nicosia-cyprus/"><div>USU Dan SPIRIT Club Mengunjungi University Of Nicosia Cyprus</div></a>
-												</li>
-
-												<li class="menu-item">
-													<a class="menu-link" href="RS USU.pdf"><div>RS USU </div></a>
-												</li>
-
-												<li class="menu-item">
-													<a class="menu-link" href="https://www.iaea.org/about/overview/sustainable-development-goals/goal-17-partnerships-for-the-goals"><div>International Atomic Energy Agency (IAEA) </div></a>
-												</li>
-
-												<li class="menu-item">
-													<a class="menu-link" href="USU SC 2023.pdf"><div>USU Summer Course 2023 Opens Insights In The ASIA Region </div></a>
-												</li>
-
-												<li class="menu-item">
-													<a class="menu-link" href="https://waspada.id/pendidikan/usu-summer-course-2023-membuka-wawasan-di-wilayah-asia/"><div>WASPADA.id</div></a>
-												</li>
-
-												<li class="menu-item">
-													<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/07/31/1044805/usu-summer-course-2023-membuka-wawasan-di-wilayah-asia/"><div>ANALISA DAILY</div></a>
-												</li>
 												
-												<li class="menu-item">
-											<a class="menu-link" href="#"><div>Testimonial</div></a>
-											<!-- <ul class="sub-menu-container">
-												<li class="menu-item">
-													<a class="menu-link" href="nicosia.php"><div>University of Nicosia</div></a>
-												</li>
-											</ul> -->
-										</li>
 
 								<!-- <li class="menu-item">
 									<a class="menu-link" href="#"><div>Reports & Achievement</div></a>
@@ -269,10 +215,75 @@
 
 								
 								<li class="menu-item">
-									<a class="menu-link" href="#"><div>More</div></a>
+									<a class="menu-link" href="#"><div>Media</div></a>
 									<ul class="sub-menu-container">
 
+									<li class="menu-item">
+											<a class="menu-link" href="#"><div>News Letters</div></a>
+											<ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="https://paideia-news.com/panepistimio-leykosias/2023/06/01/erasmus-spirit-athlitismos-kai-fysiki-agogi-os-meso-entaksis-kai-anagnorisis-stin-india-indonisia-kai-sri-lanka/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter"><div>ERASMUS + SPIRIT</div></a>
+												</li>
+
+												<li class="menu-item">
+											<a class="menu-link" href="#"><div>IPB University</div></a>
+											<ul class="sub-menu-container">
+												<li class="menu-item">
+												<a class="menu-link" href="https://ipb.ac.id/news/index/2023/05/dosen-dan-mahasiswa-ipb-university-hadiri-eu-spirit-technical-training-di-cyprus/bf529f7bc9a82a37415f1fd8af596027"><div>IPB University Technical Training in Cyprus</div></a>
+												<a class="menu-link" href="https://ipb.ac.id/news/index/2023/09/ipb-spirit-project-held-summer-course-program-and-sundanes-traditional-games-of-physical-activities-in-kampung-budaya-district-of-bogor/8c701e514cbf5efd1adce76d6a6c2e99"><div>IPB Summer Course Program</div></a>
+												</li>
+											</ul>
+										</li>
+											
 										
+
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Asia Partners</div></a>
+											<ul class="sub-menu-container">
+												<li class="menu-item">
+												<a class="menu-link" href="Project Update 1.pdf"><div>1st NewsLetter</div></a>
+												<a class="menu-link" href="Project Update 3.pdf"><div>2nd NewsLetter</div></a>
+												<a class="menu-link" href="Project Update 2.pdf"><div>3rd NewsLetter</div></a>
+												</li>
+											</ul>
+										</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/06/02/1042784/usu-dan-spirit-club-berkunjung-ke-university-of-nicosia-cyprus/"><div>USU dan SPIRIT Club Berkunjung ke University of Nicosia Cyprus</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://waspada.id/pendidikan/usu-dan-spirit-club-mengunjungi-university-of-nicosia-cyprus/"><div>USU Dan SPIRIT Club Mengunjungi University Of Nicosia Cyprus</div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="RS USU.pdf"><div>RS USU </div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="https://www.iaea.org/about/overview/sustainable-development-goals/goal-17-partnerships-for-the-goals"><div>International Atomic Energy Agency (IAEA) </div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="USU SC 2023.pdf"><div>USU Summer Course 2023 Opens Insights In The ASIA Region </div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="https://waspada.id/pendidikan/usu-summer-course-2023-membuka-wawasan-di-wilayah-asia/"><div>WASPADA.id</div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="https://analisadaily.com/berita/baca/2023/07/31/1044805/usu-summer-course-2023-membuka-wawasan-di-wilayah-asia/"><div>ANALISA DAILY</div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="newsletter about Lisbon training.pdf"><div>NewsLetter Lisbon training</div></a>
+												</li>
+
+</ul>
+
+
+
+</li>
 
 										<li class="menu-item">
 											<a class="menu-link" href="articles.php"><div>Articles</div></a>
@@ -280,8 +291,63 @@
 												<li class="menu-item">
 													<a class="menu-link" href="#"><div>Universitat Politecnica de Valencia</div></a>
 												</li>
+
+<div id= "show">
+          <video width="320" height="240" src="file:///F:/test.mp4" type="video/mp4" controls>
+          </video>
+      </div>
+												
 											</ul> -->
 										</li>
+
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Testimonial</div></a>
+											<ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/1lwd0buo7yLbb8ola2bDLRro64UKfm9MG/view?usp=sharing"><div>USU Summer course 2023</div></a>
+												</li>
+
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/1uhihOYNcjilORMXhBBTxYqMEydz-BE3G/view?usp=sharing"><div>Testimonial 1</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/1d7VAWG3tz8Z365ZS-_GwczhnI-Qr9vkd/view?usp=sharing"><div>Testimonial 2</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/1XJhX-gWUkD0EViWksD82SnRnYWNeht_Q/view?usp=sharing"><div>Testimonial 3</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/12i1TaOtDx6IEDuA0K68L48DUxplQblM7/view?usp=sharing"><div>Testimonial 3</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/112PdVo2ToKKOLtS8cNboQgv2BeQXHPjJ/view?usp=sharing"><div>Testimonial 4</div></a>
+												</li>
+												<li class="menu-item">
+													<a class="menu-link" href="https://drive.google.com/file/d/1_RpBxa6atoZxWFCC2munv4o4tRWH3c4P/view?usp=sharing"><div>Testimonial 5</div></a>
+												</li>
+</ul> 
+										</li>
+
+
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Youtube</div></a>
+											 <ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="https://youtu.be/66oii02uO_U"><div>USU Summer course 2023</div></a>
+												</li>
+											</ul>
+										</li>
+
+
+										<!-- <li class="menu-item">
+											<a class="menu-link" href="#"><div>Spirit Club</div></a>
+											 <ul class="sub-menu-container">
+												<li class="menu-item">
+													<a class="menu-link" href="nicosia.php"><div>University of Nicosia</div></a>
+												</li>
+											</ul> 
+										</li> -->
+
 										<li class="menu-item">
 											<a class="menu-link" href="gallery.php"><div>Gallery</div></a>
 											<!-- <ul class="sub-menu-container">

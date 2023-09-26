@@ -6,6 +6,11 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="SemiColonWeb" />
 
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
     <!-- Stylesheets
 	============================================= -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
@@ -44,6 +49,8 @@
 	============================================= -->
     <title>Erasmus + Spirit</title>
     <style>
+
+
         h3 {
             color: #444;
              !important;
@@ -237,6 +244,51 @@
  /* Popup Css end here
 		============================================================================ */
 
+        /* Partners logo Css start here
+		============================================================================ */
+        body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.slider-container {
+    width: 100%;
+    height: 80%;
+    overflow: hidden;
+}
+
+.slider {
+    display: flex;
+    transition: transform 1s ease;
+}
+
+.slide {
+    flex: 0 0 300px;
+    width: 300px;
+    height: 225px;
+    margin-right: 10px;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.description {
+    padding: 10px;
+}
+
+.description p {
+    margin: 0;
+}
+
+
+ /* Partners logo Css ends here
+		============================================================================ */
+
     </style>
 </head>
 
@@ -259,6 +311,8 @@
 
 
 
+
+
     <!-- Document Wrapper
 	============================================= -->
     <div id="wrapper" class="clearfix">
@@ -266,56 +320,50 @@
         <?php include('header.php'); ?>
 
         <section id="slider" class="slider-element slider-parallax swiper_wrapper min-vh-60">
-            <div class="slider-inner">
-
-                <div class="swiper-container swiper-parent">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide dark">
-                            <div class="row">
-                                <div class="home-video-desc-big">
-                                    <h1 class="mb0">MOU Signing Ceremony</h1>
-                                    <p style="font-size:18px;" class="d-none d-sm-block ">Virtual MOU Signing Ceremony
-                                    </p>
-                                </div>
+        <div class="slider-inner">
+            <div class="swiper-container swiper-parent">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide dark">
+                        <div class="row">
+                            <div class="home-video-desc-big">
+                                <h1 class="mb0">MOU Signing Ceremony</h1>
+                                <p style="font-size: 18px;" class="d-none d-sm-block">Virtual MOU Signing Ceremony</p>
                             </div>
-                            <div class="swiper-slide-bg" style="background-image: url('images/silder.jpg');"></div>
                         </div>
-                        <div class="swiper-slide dark">
-                            <div class="row">
-                                <div class="home-video-desc-big">
-                                    <h1 class="mb0">Mou signing ceremony hosted by LPU</h1>
-                                    <p style="font-size:18px;" class="d-none d-sm-block ">Mrs. Supriya Mathews ( Deputy
-                                        Director-International Affairs)<br>Mr. Aman Mittal ( Director - International
-                                        Affairs)</p>
-                                </div>
-                            </div>
-                            <div class="swiper-slide-bg" style="background-image: url('images/silder1.jpg');"></div>
-                        </div>
-                        <div class="swiper-slide dark">
-                            <div class="row">
-                                <div class="home-video-desc-big">
-                                    <h1 class="mb0">Para Athletic Event</h1>
-                                    <p style="font-size:18px;" class="d-none d-sm-block ">Para Athletic Event conducting
-                                        by LPU 2019-20</p>
-                                </div>
-                            </div>
-                            <div class="swiper-slide-bg" style="background-image: url('images/silder2.jpg');"></div>
-                        </div>
+                        <div class="swiper-slide-bg" style="background-image: url('images/silder.jpg');"></div>
                     </div>
-                    <div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
-                    <div class="slider-arrow-right"><i class="icon-angle-right"></i></div>
-                    <div class="slide-number">
-                        <div class="slide-number-current"></div><span>/</span>
-                        <div class="slide-number-total"></div>
+                    <div class="swiper-slide dark">
+                        <div class="row">
+                            <div class="home-video-desc-big">
+                                <h1 class="mb0">Mou signing ceremony hosted by LPU</h1>
+                                <p style="font-size: 18px;" class="d-none d-sm-block">Mrs. Supriya Mathews (Deputy Director-International Affairs)<br>Mr. Aman Mittal (Director - International Affairs)</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide-bg" style="background-image: url('images/silder1.jpg');"></div>
+                    </div>
+                    <div class="swiper-slide dark">
+                        <div class="row">
+                            <div class="home-video-desc-big">
+                                <h1 class="mb0">Para Athletic Event</h1>
+                                <p style="font-size: 18px;" class="d-none d-sm-block">Para Athletic Event conducting by LPU 2019-20</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide-bg" style="background-image: url('images/silder2.jpg');"></div>
                     </div>
                 </div>
-
+                <div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
+                <div class="slider-arrow-right"><i class="icon-angle-right"></i></div>
+                <div class="slide-number">
+                    <div class="slide-number-current"></div><span>/</span>
+                    <div class="slide-number-total"></div>
+                </div>
             </div>
-        </section>
+        </div>
+    </section>
 
         <!--pop-up email id
         =========================================================-->
-        <div class="popup">
+        <!-- <div class="popup">
     <div class="popup-content">
       <span class="close">&times;</span>
       <h4>Would You Like To Receive Our News Letter Updates</h4>
@@ -323,7 +371,7 @@
       <input type="email" id="emailInput" placeholder="Your email">
       <button type="submit">Submit</button>
     </div>
-  </div>
+  </div> -->
 
     <!--pop-up email id
         =========================================================-->
@@ -398,6 +446,12 @@ benefits of sport and healthy lifestyle.</h2>
                 </div> -->
 
 
+                
+
+
+
+
+
                 <section class="about-section-cl" id="content">
                     <div class="content-wrap pb " style="padding-top: 0px; padding-bottom:0px;">
 
@@ -448,7 +502,7 @@ benefits of sport and healthy lifestyle.</h2>
                             <div class="row">
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                                     <div class="section_heading_center">
-                                        <h2>PROJECT OBJECTIVES</h2>
+                                        <h2>OBJECTIVES</h2>
                                     </div>
                                 </div>
                             </div>
@@ -596,11 +650,58 @@ benefits of sport and healthy lifestyle.</h2>
 
 
      <section class="pt50 pb50" id="content">
-        <div class="content-wrap">
-            <div class="heading-block center">
+     <div class="heading-block center">
                 <h3 class="nott center" style="font-size: 35px; letter-spacing: -1px;">Our Partners </span></h3>
             </div>
-            <!-- <div id="oc-clients-full" class="owl-carousel owl-carousel-full image-carousel carousel-widget"
+
+     <div class="slider-container">
+        <div class="slider">
+            <div class="slide">
+            <a href="https://bvuniversity.edu.in/"><img src="images/logo/1.jpg" alt="Logo">
+            </div>
+            <div class="slide">
+            <a href="https://usu.ac.id/"><img src="images/logo/2.jpg" alt="Logo">
+                </div>
+            <div class="slide">
+            <a href="https://unsyiah.ac.id/en/"><img src="images/logo/3.jpg" alt="Logo">
+                </div>
+                <div class="slide">
+                <a href="http://www.upv.es/"><img src="images/logo/4.jpg" alt="Logo">
+                </div>
+                <div class="slide">
+                <a href="https://www.pdn.ac.lk/"><img src="images/logo/5.jpg" alt="Logo">
+                </div>
+                <div class="slide">
+                <a href="https://tecnico.ulisboa.pt/en/"><img src="images/logo/6.jpg" alt="Logo">
+                </div>
+                <div class="slide">
+                <a href="https://www.unic.ac.cy/"><img src="images/logo/7.jpg" alt="Logo">
+                </div>
+                <div class="slide">
+                <a href="https://www.sab.ac.lk/"><img src="images/logo/8.jpg" alt="Logo">
+                </div>
+                <div class="slide">
+                <a href="https://www.isbr.in"><img src="images/logo/9.jpg" alt="Logo">
+                </div>
+                <div class="slide">
+                <a href="https://ipb.ac.id"><img src="images/logo/10.jpg" alt="Logo">
+                </div>
+                <div class="slide">
+                <a href="demo.edulab.in"><img src="images/logo/11.jpg" alt="Logo">
+                </div>
+                <div class="slide">
+                <a href="www.lpu.in"><img src="images/logo/lpu.jpg" alt="Image 3">
+                </div>
+        </div>
+    </div>
+
+
+    <div class="elfsight-app-310dedfd-7fe6-4f2b-9b49-40cc09001049"></div>
+
+<!-- 
+        <div class="content-wrap">
+            
+             <div id="oc-clients-full" class="owl-carousel owl-carousel-full image-carousel carousel-widget"
                 data-margin="30" data-nav="true" data-pagi="false" data-autoplay="5000" data-items-xs="3"
                 data-items-sm="3" data-items-md="5" data-items-lg="6" data-items-xl="7">
                 <div class="oc-item grid-outer"><a href="#"><img src="images/logo/1.jpg" alt="Logo"></a></div>
@@ -615,11 +716,10 @@ benefits of sport and healthy lifestyle.</h2>
                 <div class="oc-item grid-outer"><a href="#"><img src="images/logo/9.jpg" alt="Logo"></a></div>
                 <div class="oc-item grid-outer"><a href="#"><img src="images/logo/10.jpg" alt="Logo"></a></div>
                 <div class="oc-item grid-outer"><a href="#"><img src="images/logo/11.jpg" alt="Logo"></a></div>
-            </div> -->
-        </div>
+            </div> 
+        </div> -->
 
     </section> 
-
 
 
 
@@ -630,6 +730,8 @@ benefits of sport and healthy lifestyle.</h2>
     <!-- Footer
 		============================================= -->
     <?php include('footer.php');?>
+
+
 
     </div>
     <!-- #wrapper end -->
@@ -726,11 +828,66 @@ benefits of sport and healthy lifestyle.</h2>
     });
   });
   </script>
+
+
     
     <!-- Add jQuery library -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     </script>
+<!-- Add Javascript for partners logo start here  -->
+
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+    const slider = document.querySelector(".slider");
+    const slides = document.querySelectorAll(".slide");
+    const slideWidth = slides[0].offsetWidth;
+    let currentIndex = 0;
+
+    function nextSlide() {
+        currentIndex = (currentIndex + 1) % slides.length;
+        updateSlider();
+    }
+
+    function updateSlider() {
+        const translateX = -currentIndex * slideWidth;
+        slider.style.transform = `translateX(${translateX}px)`;
+    }
+
+    setInterval(nextSlide, 3000);
+});
+
+
+</script>
+<!-- Add Javascript for partners logo start here  -->
+
+
+<!-- Add Javascript for auto image start here  -->
+
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var swiper = new Swiper('.swiper-container', {
+                loop: true, // Enable continuous loop
+                autoplay: {
+                    delay: 2000, // Delay between slides (in milliseconds)
+                },
+                navigation: {
+                    nextEl: '.slider-arrow-right',
+                    prevEl: '.slider-arrow-left',
+                },
+                pagination: {
+                    el: '.slide-number',
+                    type: 'fraction',
+                },
+            });
+        });
+    </script>
+<!-- Add Javascript for auto image  end  here  -->
+
+
+
 </body>
 
 </html>
