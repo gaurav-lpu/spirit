@@ -126,7 +126,7 @@
 									</ul>
 								</li>
 								<li class="menu-item">
-									<a class="menu-link" href="#"><div>Spirit Club</div></a>
+									<a class="menu-link" href="#"><div>Global Spirit Club Network</div></a>
 									<!-- <ul class="sub-menu-container">
 									<li class="menu-item">
 											<a class="menu-link" href="#"><div>Life Long Learning Courses</div></a>

@@ -127,6 +127,9 @@
   -o-transition:all .2s linear;
   transition:all .2s linear
 }
+.right-aligned-image {
+  margin-right: 0;
+}
 .social-icons a:active,.social-icons a:focus,.social-icons a:hover
 {
   color:#fff;
@@ -180,13 +183,13 @@
            <div class="col-xs-6 col-md-3">
             <h6>Categories</h6>
             <ul class="footer-links">
-              <li><a href="#">NewsLetter</a></li>
+              <li><a href="https://paideia-news.com/panepistimio-leykosias/2023/06/01/erasmus-spirit-athlitismos-kai-fysiki-agogi-os-meso-entaksis-kai-anagnorisis-stin-india-indonisia-kai-sri-lanka/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter">NewsLetter</a></li>
               <li><a href="#">Testimonial</a></li>
               <li><a href="#">Events</a></li>
-              <li><a href="#">Spirit Club</a></li>
+              <li><a href="#">Global Spirit Club Network</a></li>
               <li><a href="#">Courses</a></li>
             </ul>
-          </div> 
+          </div>
 
           <div class="col-xs-6 col-md-3">
             <h6>Quick Links</h6>
@@ -198,11 +201,14 @@
               <li><a href="#">FAQs</a></li>
             </ul>
           </div>
+          <div class="col-md-6 d-flex justify-content-end">
+						<img src="images/logo-2.jpg" alt="Logo" >							
+						</div>
         </div>
         <hr>
       </div>
 
-	  
+
 
       <div class="container">
         <div class="row">
@@ -221,7 +227,7 @@
             </ul>
           </div>
         </div>
-      </div>
+</div>
 
 
 

@@ -492,161 +492,7 @@ benefits of sport and healthy lifestyle.</h2>
                     </div>
                 </section>
 
-                <!-- Content
-		============================================= -->
-                <section id="content">
-
-                    <section id="explore_area" class="section_padding_top">
-                        <div class="container">
-                            <!-- Section Heading -->
-                            <div class="row">
-                                <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                                    <div class="section_heading_center">
-                                        <h2>OBJECTIVES</h2>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-6 offset-lg-3">
-                                    <div class="theme_nav_tab">
-                                        <nav class="theme_nav_tab_item">
-                                            <div class="nav nav-tabs" id="nav-tab1" role="tablist">
-
-                                                <button class="nav-link active" id="nav-asian-tab" data-bs-toggle="tab"
-                                                    data-bs-target="#nav-asian" type="button" role="tab"
-                                                    aria-controls="nav-asian" aria-selected="true">ASIAN</button>
-
-                                                <button class="nav-link" id="nav-european-tab" data-bs-toggle="tab"
-                                                    data-bs-target="#nav-european" type="button" role="tab"
-                                                    aria-controls="nav-european" aria-selected="false">EUROPEAN</button>
-                                            </div>
-                                        </nav>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="tab-content" id="nav-tabContent">
-                                        <div class="tab-pane fade show active" id="nav-asian" role="tabpanel"
-                                            aria-labelledby="nav-asian-tab">
-                                            <div class="row">
-
-                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                                    <div class="theme_common_box_two img_hover">
-                                                        <div class="theme_two_box_img">
-                                                            <a href="#"><img src="images/partner/delhi.jpg"
-                                                                    alt="img"></a>
-                                                        </div>
-                                                        <div class="theme_two_box_content">
-                                                            <h4><a href="#">India</a></h4>
-                                                            <p><span class="review_rating">EDULAB-ISBR-LPU<br>BHARATI
-                                                                    VIDYAPEETH UNIVERSITY</span></p>
-                                                            <h3><span>the upcoming meeting agenda</span></h3>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                                    <div class="theme_common_box_two img_hover">
-                                                        <div class="theme_two_box_img">
-                                                            <a href="hotel-details2.html">
-                                                                <img src="images/partner/colombo.jpg" alt="img"></a>
-                                                        </div>
-                                                        <div class="theme_two_box_content">
-                                                            <h4><a href="#">Sri Lanka</a></h4>
-                                                            <p><span class="review_rating">THE SABARAGAMUWA UNVIERSITY
-                                                                    OF SRI LANKA <br>UNIVERSITY OF PERADENIYA</span></p>
-                                                            <h3><span>the upcoming meeting agenda</span></h3>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                                    <div class="theme_common_box_two img_hover">
-                                                        <div class="theme_two_box_img">
-                                                            <a href="#">
-                                                                <img src="images/partner/jakarta.jpg" alt="img"></a>
-                                                        </div>
-                                                        <div class="theme_two_box_content">
-                                                            <h4><a href="#">Indonesia</a></h4>
-                                                            <p><span class="review_rating">Univeristas Sumatera Utara
-                                                                    -University Syiah Kuala<br> Insititut Pertanian
-                                                                    Bogor University</span></p>
-                                                            <h3><span>the upcoming meeting agenda</span></h3>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="tab-pane fade" id="nav-european" role="tabpanel"
-                                            aria-labelledby="nav-european-tab">
-                                            <div class="row">
-
-                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                                    <div class="theme_common_box_two img_hover">
-                                                        <div class="theme_two_box_img">
-                                                            <a href="#">
-                                                                <img src="images/partner/madrid.jpg" alt="img"></a>
-                                                        </div>
-                                                        <div class="theme_two_box_content">
-                                                            <h4><a href="#">Spain</a></h4>
-                                                            <p><span class="review_rating">Universitat Politecnica de
-                                                                    Valencia</span></p>
-                                                            <h3><span>the upcoming meeting agenda</span></h3>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                                    <div class="theme_common_box_two img_hover">
-                                                        <div class="theme_two_box_img">
-                                                            <a href="#"><img src="images/partner/lisbon.jpg"
-                                                                    alt="img"></a>
-                                                        </div>
-                                                        <div class="theme_two_box_content">
-                                                            <h4><a href="#">Portugal</a></h4>
-                                                            <p><span class="review_rating">Universidade de Lisboa</span>
-                                                            </p>
-                                                            <h3><span>the upcoming meeting agenda</span></h3>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
-                                                    <div class="theme_common_box_two img_hover">
-                                                        <div class="theme_two_box_img">
-                                                            <a href="#"><img src="images/partner/nicosia.jpg"
-                                                                    alt="img"></a>
-                                                        </div>
-                                                        <div class="theme_two_box_content">
-                                                            <h4><a href="#">Cyprus</a></h4>
-                                                            <p><span class="review_rating">University of Nicosia</span>
-                                                            </p>
-                                                            <h3><span>the upcoming meeting agenda</span></h3>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-
-
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-            </div>
-    </div>
-    </section>
-
-    </div>
-    </section>
-
-
+              
 
 
      <section class="pt50 pb50" id="content">
@@ -693,11 +539,11 @@ benefits of sport and healthy lifestyle.</h2>
                 <a href="www.lpu.in"><img src="images/logo/lpu.jpg" alt="Image 3">
                 </div>
         </div>
-    </div>
+    </div><br><br>
 
-
-    <div class="elfsight-app-310dedfd-7fe6-4f2b-9b49-40cc09001049"></div>
-
+<section class="pt50 pb50" id="content">
+    <div class='sk-ww-linkedin-profile-post' data-embed-id='218159'></div><script src='https://widgets.sociablekit.com/linkedin-profile-posts/widget.js' async defer></script>
+</section>
 <!-- 
         <div class="content-wrap">
             
