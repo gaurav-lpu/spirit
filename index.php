@@ -330,7 +330,7 @@ img {
                                 <p style="font-size: 18px;" class="d-none d-sm-block">Virtual MOU Signing Ceremony</p>
                             </div>
                         </div>
-                        <div class="swiper-slide-bg" style="background-image: url('images/silder.jpg');"></div>
+                        <div class="swiper-slide-bg" style="background-image: url('images/FINAL1.jpg');"></div>
                     </div>
                     <div class="swiper-slide dark">
                         <div class="row">
@@ -339,7 +339,7 @@ img {
                                 <p style="font-size: 18px;" class="d-none d-sm-block">Mrs. Supriya Mathews (Deputy Director-International Affairs)<br>Mr. Aman Mittal (Director - International Affairs)</p>
                             </div>
                         </div>
-                        <div class="swiper-slide-bg" style="background-image: url('images/silder1.jpg');"></div>
+                        <div class="swiper-slide-bg" style="background-image: url('images/FINAL2.jpg');"></div>
                     </div>
                     <div class="swiper-slide dark">
                         <div class="row">
@@ -348,7 +348,7 @@ img {
                                 <p style="font-size: 18px;" class="d-none d-sm-block">Para Athletic Event conducting by LPU 2019-20</p>
                             </div>
                         </div>
-                        <div class="swiper-slide-bg" style="background-image: url('images/silder2.jpg');"></div>
+                        <div class="swiper-slide-bg" style="background-image: url('images/FINAL3.jpg');"></div>
                     </div>
                 </div>
                 <div class="slider-arrow-left"><i class="icon-angle-left"></i></div>
@@ -542,6 +542,9 @@ benefits of sport and healthy lifestyle.</h2>
     </div><br><br>
 
 <section class="pt50 pb50" id="content">
+<div class="heading-block center">
+                <h3 class="nott center" style="font-size: 35px; letter-spacing: -1px;">Our Page </span></h3>
+            </div>
     <div class='sk-ww-linkedin-profile-post' data-embed-id='218159'></div><script src='https://widgets.sociablekit.com/linkedin-profile-posts/widget.js' async defer></script>
 </section>
 <!-- 
