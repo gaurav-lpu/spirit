@@ -235,6 +235,15 @@
 											</ul>
 										</li>
 											
+										<li class="menu-item">
+											<a class="menu-link" href="#"><div>Spirit-Newsletters</div></a>
+											<ul class="sub-menu-container">
+												<li class="menu-item">
+												<a class="menu-link" href="Newsletter_12 SPIRIT IHWG.docx"><div>1st Newsletter</div></a>
+												<a class="menu-link" href="Newsletter 13 SPIRIT SENIOR CARE.docx"><div>2nd Newsletter</div></a>
+												</li>
+											</ul>
+										</li>
 										
 
 										<li class="menu-item">
