@@ -326,8 +326,8 @@ img {
                     <div class="swiper-slide dark">
                         <div class="row">
                             <div class="home-video-desc-big">
-                                <h1 class="mb0">MOU Signing Ceremony</h1>
-                                <p style="font-size: 18px;" class="d-none d-sm-block">Virtual MOU Signing Ceremony</p>
+                                <h1 class="mb0">Training of trainers for training: USU, Indonesia</h1>
+                                <p style="font-size: 18px;" class="d-none d-sm-block">The faculties from partnering countries developing the academic courses and Life Long courses <br>hosted by USU, Indonesia in July 2023</p>
                             </div>
                         </div>
                         <div class="swiper-slide-bg" style="background-image: url('images/FINAL1.jpg');"></div>
@@ -335,8 +335,8 @@ img {
                     <div class="swiper-slide dark">
                         <div class="row">
                             <div class="home-video-desc-big">
-                                <h1 class="mb0">Mou signing ceremony hosted by LPU</h1>
-                                <p style="font-size: 18px;" class="d-none d-sm-block">Mrs. Supriya Mathews (Deputy Director-International Affairs)<br>Mr. Aman Mittal (Director - International Affairs)</p>
+                                <h1 class="mb0">Consortium Meeting: UPV, Spain</h1>
+                                <p style="font-size: 18px;" class="d-none d-sm-block">First face -to- face consortium meeting held in UPV, Spain in June 2022</p>
                             </div>
                         </div>
                         <div class="swiper-slide-bg" style="background-image: url('images/FINAL2.jpg');"></div>
@@ -344,8 +344,8 @@ img {
                     <div class="swiper-slide dark">
                         <div class="row">
                             <div class="home-video-desc-big">
-                                <h1 class="mb0">Para Athletic Event</h1>
-                                <p style="font-size: 18px;" class="d-none d-sm-block">Para Athletic Event conducting by LPU 2019-20</p>
+                                <h1 class="mb0">Project meeting and dissemination: UoL, Portugal</h1>
+                                <p style="font-size: 18px;" class="d-none d-sm-block">The project coordinators and students from partnering countries undergone training in<br> University of Lisbon in September 2023</p>
                             </div>
                         </div>
                         <div class="swiper-slide-bg" style="background-image: url('images/FINAL3.jpg');"></div>

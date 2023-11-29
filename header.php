@@ -161,6 +161,9 @@
 										<li class="menu-item">
 											<a class="menu-link" href="#"><div>Academic Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
 										</li>
+										<li class="menu-item">
+											<a class="menu-link" href="courses1.php"><div>Infographs for Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
+										</li>
 									</ul>
 								</li>
 												
