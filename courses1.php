@@ -10,7 +10,7 @@
     <h2 style="text-align: center; margin-top: 5vh;">INFOGRAPH FOR COURSES</h2><br>
 
     <!-- Display the image -->
-    <img src="images/infographs.jpg" style="border: 2px solid #333; max-width: 100%; height: auto; display: block; margin: 0 auto" alt="Logo">
+    <img src="images/infographs.jpg" style="border: 2px solid #333; max-width: 50%; height: auto; display: block; margin: 0 auto" alt="Logo">
 
 </body>
 </html>
