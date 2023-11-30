@@ -142,16 +142,30 @@ h4 {margin-bottom: 5px; font-size: 16px;}
 								</div></div>					
 						</div>
 						<div class="fancy-title"></div>
+
+						<div class="col-12">						
+							<div class="grid-inner row align-items-center no-gutters">
+								<div class="entry-image col-md-2">
+									<a href="#"><img src="images/SwatiBhise.jpeg" ></a>
+								</div>
+									<div class="col-md-10 pl-md-4 ">
+									<p class="head-name head-color">Dr. Swati Bhise<br>
+									<span>Principal, School of Physiotherapy, Pune</span></p>
+									<!-- <p class="lpu-top25"> -->
+										<!-- Prof. (Dr.) Kirti Mahajan is currently working as Professor and the Director, International Student's Center & Student's Welfare, Bharati Vidyapeeth, (Deemed to be University), Pune, INDIA. She has been working in the field of education for 20 Years in various capacities: Teaching faculty, trainer, administrator, and policymaker. She also has experience in implementing several projects for Education Research. She has been one of the leading panelists at various national and international events. She has received various National and International Awards in the field of education. </p>	 -->
+								</div></div>					
+						</div>
+						<div class="fancy-title"></div>
 					
 					<div class="col-12">						
 							<div class="grid-inner row align-items-center no-gutters">
 								<div class="entry-image col-md-2">
-									<a href="#"><img src="images/gaurav-pant.jpg" ></a>
+									<a href="#"><img src="images/SnehaKatke.jpg" ></a>
 								</div>
 									<div class="col-md-10 pl-md-4">
-									<p class="head-name head-color">Prof. Dr. Gaurav Pant<br>
-									<span>Coordinator.</span></p>									
-									<p class="lpu-top25">He has Bachelor's and Master's degree in Physical Education, M Phil, Ph.D. NET qualified with a total of 10 years of experience. He has assisted 34 Ph.D. scholars in completing their Ph.D. and has completed two significant projects under the physical education stream. Additionally, he has multiple research publications to his credit. His area of expertise is in YOGA, sports Psychology, and Sports and Culture. His area of interest is in Education Reforms, Sports Psychology, Yoga, R & D.</p>
+									<p class="head-name head-color">Dr. Sneha Katke<br>
+									<span>Principal, School of Physiotherapy, Sangli</span></p>									
+									<!-- <p class="lpu-top25">He has Bachelor's and Master's degree in Physical Education, M Phil, Ph.D. NET qualified with a total of 10 years of experience. He has assisted 34 Ph.D. scholars in completing their Ph.D. and has completed two significant projects under the physical education stream. Additionally, he has multiple research publications to his credit. His area of expertise is in YOGA, sports Psychology, and Sports and Culture. His area of interest is in Education Reforms, Sports Psychology, Yoga, R & D.</p> -->
 										
 								</div></div>					
 						</div>							
