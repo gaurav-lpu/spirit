@@ -159,10 +159,7 @@
 											<a class="menu-link" href="#"><div>Life Long Learning Courses</div></a><!--once we received the courses list will pull it here courses2.php-->
 										</li>
 										<li class="menu-item">
-											<a class="menu-link" href="#"><div>Academic Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
-										</li>
-										<li class="menu-item">
-											<a class="menu-link" href="courses1.php"><div>Infographs for Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
+											<a class="menu-link" href="courses1.php"><div>Academic Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
 										</li>
 									</ul>
 								</li>
@@ -242,8 +239,8 @@
 											<a class="menu-link" href="#"><div>Spirit-Newsletters</div></a>
 											<ul class="sub-menu-container">
 												<li class="menu-item">
-												<a class="menu-link" href="Newsletter_12 SPIRIT IHWG.docx"><div>1st Newsletter</div></a>
-												<a class="menu-link" href="Newsletter 13 SPIRIT SENIOR CARE.docx"><div>2nd Newsletter</div></a>
+												<a class="menu-link" href="Newsletter_1.pdf"><div>1st Newsletter</div></a>
+												<a class="menu-link" href="Newsletter_2.pdf"><div>2nd Newsletter</div></a>
 												</li>
 											</ul>
 										</li>
