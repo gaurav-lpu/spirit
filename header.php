@@ -126,15 +126,7 @@
 									</ul>
 								</li>
 								<li class="menu-item">
-									<a class="menu-link" href="#"><div>Global Spirit Club Network</div></a>
-									<!-- <ul class="sub-menu-container">
-									<li class="menu-item">
-											<a class="menu-link" href="#"><div>Life Long Learning Courses</div></a>
-										</li>
-										<li class="menu-item">
-											<a class="menu-link" href="#"><div>Academic Courses</div></a>
-										</li>
-									</ul> -->
+									<a class="menu-link" href="globalnetwork.php"><div>Global Spirit Club Network</div></a>
 								</li>
 
 
