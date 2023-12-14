@@ -5742,6 +5742,10 @@ body:not(.stretched) .slider-parallax .slider-inner { left: auto; }
 	background-size: cover;
 }
 
+.typed {
+	text-shadow: 0px 3px 0px rgba(0, 0, 0, 0.2);
+  }
+
 .swiper-slide [data-caption-animate] { -webkit-backface-visibility: hidden; }
 
 .slider-element .video-wrap,
