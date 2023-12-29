@@ -26,23 +26,19 @@
 	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/layers.css">
 	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/navigation.css">
 	
+	
 <!--	<link rel="stylesheet" href="css/colors.php?color=209EBB" type="text/css" />-->
 
 	<!-- Document Title
 	============================================= -->
-	<title>LPU</title>
-<style>
+	<title>Bharati Vidyapeeth University</title>
+      
+	  <style>
+.points li {background: url(../../images/widget-link.png) no-repeat 0 5px; padding-left: 20px; list-style-type:none; line-height:30px; }
+h4 {margin-bottom: 5px; font-size: 16px;}
+.grid-outer {background: #FFF; box-shadow: 0 0 20px #ccc; padding: 20px;}
+</style>
 
-.read-more 
-   {background-color: #fff;
-   border: 0px;
-   border-bottom: 1px solid #1b439b;
-   color: #1b439b;
-   padding: 0 2px;
-   font-style: italic;	
-}
-
-</style>  
 
 
 <!-- Google tag (gtag.js) -->
@@ -55,9 +51,12 @@
   gtag('config', 'G-S7PE0LWDGE');
 </script>
 
+
 </head>
 
 <body class="stretched">
+
+
 
 	<!-- Document Wrapper
 	============================================= -->
@@ -70,49 +69,28 @@
 				<div class="swiper-container swiper-parent">
 					<div class="swiper-wrapper">						
 						<div class="swiper-slide dark">
-							<div class="swiper-slide-bg" style="background-image: url('images/education1.png');"></div>
+							<!--<div class="row">
+								<div class="home-video-desc-big">
+									<h1 class="mb0">Lovely Professional University</h1>									
+								</div>									
+							</div>-->
+							<div class="swiper-slide-bg" style="background-image: url('images/globe.jpg');"></div>
 						</div>												
 					</div>					
 				</div>
 
 			</div>
 		</section>
-		
-
-	<section class="pt10">
+        
+<section class="pt10">
 			<div class="container clearfix ">
 				<div class="heading-block center mb20">
-					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">Lovely Professional University </h3>
+					<h3 style="color: #E44D26; font-size: 28px; font-weight: normal; text-align: center; margin: 20px 0; font-family: 'Verdana', sans-serif; text-transform: uppercase; letter-spacing: 1px; /* Add text-shadow for a subtle shadow effect */ text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);">Global Spirit Club Network</h3>
+					<span class="mt0" style="color: black; font-weight: bold">About Us</span>
 				</div>
-					<p style="font-style: italic">Lovely Professional University has proposed a total of three courses including:<br> 1) Physical Education in sports in inclusive schools<br> 2) Exercise Science<br> 3) Motor development<br> These courses are included as a part of curriculum for Bachelor's and Master’s program. All the three courses have the 6 ECTS credits and the mode of delivery is offline mode.</p>
-					<p><strong>Infograph on Courses:</strong> <a href="images/infographs.jpg" class="more-link" target="_blank">Click Here</a></p>
-			</div>
-
-		</section>
-
-        <section class="pt10">
-			<div class="container clearfix ">
-				<div class="heading-block center mb20">
-					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">Bharati Vidhyapeeth University</h3>
-				</div>
-					<p style="font-style: italic">Bharati Vidyapeeth (Deemed to be) University based on The SPIRIT project, new courses have been prepared to meet the need for sports education. There are three new modules which are:<br> 1) Sports Nutrition<br> 2) Physical Education<br> 3) Sports Management</p>
-					<p><strong>Infograph on Courses:</strong> <a href="images/bharati.jpg" class="more-link" target="_blank">Click Here</a></p>
-			</div>
-
-		</section>
-
-        <section class="pt10">
-			<div class="container clearfix ">
-				<div class="heading-block center mb20">
-					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">International School of Business and Research</h3>
-				</div>
-					<p style="font-style: italic">ISBR Business School has developed programs based on The SPIRIT project. Under SPIRIT, project six courses are developed which are:<br> 1) Entrepreneurship in Sports<br> 2) Excellence in Sports Business Management<br> 3) Marketing and Communication in Sports (CC)<br> 4) Marketing and Communication in Sports (LLL)<br> 5) Sports event Management<br> 6) Nutrition and Exercise to prevent NCD</p>
-					<p><strong>Infograph on Courses:</strong> <a href="images/ISBR_1.jpg" class="more-link" target="_blank">Click Here</a></p>
-			</div>
-			
+                <p>The SPIRIT project is a significant initiative undertaken as part of the ERASMUS+ program, focusing on harnessing the power of sport and physical education to foster inclusion and recognition in diverse cultural contexts, namely India, Indonesia, and Sri Lanka. As an integral part of the ERASMUS+ program, SPIRIT aims to contribute to the advancement of social cohesion, cultural understanding, and inclusive practices through sport-related activities and educational interventions.</p><br>
+                <h3 style="color: #E44D26; font-size: 28px; font-weight: normal; text-align: center; margin: 20px 0; font-family: 'Verdana', sans-serif; text-transform: uppercase; letter-spacing: 1px; /* Add text-shadow for a subtle shadow effect */ text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);">The Page</h3>
+                <div class='sk-ww-linkedin-page-post' data-embed-id='238071'></div><script src='https://widgets.sociablekit.com/linkedin-page-posts/widget.js' async defer></script>			
 			
 
 		</section>
-		
-</body>
-</html>
