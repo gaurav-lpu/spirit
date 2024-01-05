@@ -109,8 +109,17 @@
 					<p style="font-style: italic">ISBR Business School has developed programs based on The SPIRIT project. Under SPIRIT, project six courses are developed which are:<br> 1) Entrepreneurship in Sports<br> 2) Excellence in Sports Business Management<br> 3) Marketing and Communication in Sports (CC)<br> 4) Marketing and Communication in Sports (LLL)<br> 5) Sports event Management<br> 6) Nutrition and Exercise to prevent NCD</p>
 					<p><strong>Infograph on Courses:</strong> <a href="images/ISBR_1.jpg" class="more-link" target="_blank">Click Here</a></p>
 			</div>
-			
-			
+
+		</section>
+
+		<section class="pt10">
+			<div class="container clearfix ">
+				<div class="heading-block center mb20">
+					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">Universitas Sumatera Utara</h3>
+				</div>
+					<p style="font-style: italic">Universitas Sumatera Utara has developed programs based on The SPIRIT project. Under SPIRIT project, three courses are developed which are:<br> 1) Exercise and Nutrition Management in Cancer <br> 2) The Nutritional Support in Sport and Physical Activity<br> 3) Exercise and Nutrition in Combating Tripel Burden in Asia</p>
+					<p><strong>Infograph on Courses:</strong> <a href="images/USU.jpg" class="more-link" target="_blank">Click Here</a></p>
+			</div>
 
 		</section>
 		
