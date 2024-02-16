@@ -137,10 +137,10 @@ Excellence in Research.</p>
 										
 								</div></div>					
 						</div>
-						<div class="fancy-title"></div>
+						<!-- <div class="fancy-title"></div> -->
 					
-					<div class="col-12">						
-							<div class="grid-inner row align-items-center no-gutters">
+					<!-- <div class="col-12">						 -->
+							<!-- <div class="grid-inner row align-items-center no-gutters">
 								<div class="entry-image col-md-2">
 									<a href="#"><img src="images/dharam-buddhi.jpg" ></a>
 								</div>
@@ -184,7 +184,7 @@ Excellence in Research.</p>
 								</div>
 							</div>		
 								</div></div>					
-						</div>	
+						</div>	 -->
 						
 						<div class="fancy-title"></div>
 						
@@ -264,14 +264,14 @@ Excellence in Research.</p>
 									<p class="head-name center">Ms. Sakshi Sadhu</p>
 								</div>
 							</div>
-							<div class="oc-item">
+							<!-- <div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
 										<a href="#"><img src="images/mahesh-sharma.jpg" alt="Customer Testimonails"></a>
 									</div>
 									<p class="head-name center">Mr. Mahesh Sharma</p>
 								</div>
-							</div>
+							</div> -->
 							
 							<div class="oc-item">
 								<div class="testimonial">

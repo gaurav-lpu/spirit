@@ -112,13 +112,17 @@
 						<div class="col-12">						
 							<div class="grid-inner row align-items-center no-gutters">
 								<div class="entry-image col-md-2">
-									<a href="#"><img src="images/ivan-salazar-chang.jpg" ></a>
+									<a href="#"><img src="images/IvanImage.jpg" ></a>
 								</div>
 									<div class="col-md-10 pl-md-4 ">
 									<p class="head-name head-color">Dr. Ivan Salazar Chang<br>
 									<span>Coordinator</span></p>
-									<p class="lpu-top25">Phd in Psychology. Expert in Economic Psychology and Sports Psychology. Manager: International Relations at Sports Chair of University Polytechnic of Valencia. <br>Manager CEO at The Next Generation Sports<br>
-									Manager: Director of Master in Coaching and Leadership (University of Valencia) </p>			
+									<p class="lpu-top25">Ph.D. in Psychology with Specialization in Economic and in Sports Psychology
+International Relations in Chair of Sports, Polytechnic University of Valencia.
+Co-founder of the Master's Program in Coaching and Leadership, University of Valencia. 
+Co-Founder of TPT International School. USA
+Co-founder of The Next Generation Sports<br>
+President of the Sports Innovation Hub, Valencia Community. Spain</p>			
 								</div></div>	
 								
 												
