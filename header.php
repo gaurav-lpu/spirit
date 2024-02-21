@@ -148,7 +148,7 @@
 										</li> -->
 
 										<li class="menu-item">
-											<a class="menu-link" href="#"><div>Life Long Learning Courses</div></a><!--once we received the courses list will pull it here courses2.php-->
+											<a class="menu-link" href="courses2.php"><div>Life Long Learning Courses</div></a><!--once we received the courses list will pull it here courses2.php-->
 										</li>
 										<li class="menu-item">
 											<a class="menu-link" href="courses1.php"><div>Academic Courses</div></a><!-- once we received the courses list will pull it here courses.php-->
