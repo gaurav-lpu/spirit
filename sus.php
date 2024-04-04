@@ -107,12 +107,12 @@
 						<div class="col-12">						
 							<div class="grid-inner row align-items-center no-gutters">
 								<div class="entry-image col-md-2">
-									<a href="#"><img src="images/sus-project-coordinator.jpg" ></a>
+									<a href="#"><img src="images/ThanujaPic.jpg" ></a>
 								</div>
 									<div class="col-md-10 pl-md-4 ">
 									<p class="head-name head-color">Mrs. T.P Liyanage<br>
 									<span>Coordinator</span></p>
-									<p class="lpu-top25">Mrs Thanuja Liyanage, working as a lecturer in the Sabaragamuwa University of Sri Lank. She has 20 years of experience as a Physical Education teacher in Sri Lankan schools. She was a good athlete during her school time and also a Junior National Level netball player. She has completed her Bachelor’s Degree in Education, Master's Degree in the field of Education, and Master's of Philosophy in Physical Education. She has completed an Advanced Coaching  Diploma in Netball, Postgraduate Diploma in Physica.l Education, Higher National Diploma in Teacher Training in Physical Education, Diploma in Sports Management, and Diploma in Sports and Exercise Science.</p>			
+									<p class="lpu-top25">Mrs Thanuja Liyanage, working as a lecturer in the Sabaragamuwa University of Sri Lanka. She has 20 years of experience as a Physical Education teacher in Sri Lankan schools. She was a good athlete during her school time and also a Junior National Level netball player. She has completed her Bachelor’s Degree in Education, Master's Degree in the field of Education, and Master's of Philosophy in Physical Education. She has completed an Advanced Coaching  Diploma in Netball, Postgraduate Diploma in Physica.l Education, Higher National Diploma in Teacher Training in Physical Education, Diploma in Sports Management, and Diploma in Sports and Exercise Science.</p>			
 								</div></div>	
 								<div class="col-md-12 lpu-left0">She was a grade IV technical officer at amateur athletic association and B grade umpire in Netball Federation in Sri Lanka. She has served the Physical Education sector in Sri Lanka at an administration level. Now as a university lecturer she teaches undergraduate subjects related to Physical Education and Sports Sciences and guides them to conduct action research on Physical Education. She is a highly motivated and energetic woman willing to expand her knowledge and skills and to serve her best to the country.</div>						
 						</div>
@@ -142,14 +142,14 @@
 							</div>
 							
 							
-								<div class="oc-item">
+								<!-- <div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
 										<a href="#"><img src="images/sabaragamuwa.jpg" ></a>
 									</div>
 									<p class="head-name center">Dr. Rasangi Sabaragamuwa</p>
 								</div>
-							</div>
+							</div> -->
 							
 							<div class="oc-item">
 								<div class="testimonial">
@@ -160,23 +160,23 @@
 								</div>
 							</div>
 							
-							<div class="oc-item">
+							<!-- <div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
 										<a href="#"><img src="images/madushani.jpg" ></a>
 									</div>
 									<p class="head-name center">Mrs. A.A.L Madushani</p>
 								</div>
-							</div>
+							</div> -->
 							
-							<div class="oc-item">
+							<!-- <div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
 										<a href="#"><img src="images/weerarathna.jpg" ></a>
 									</div>
 									<p class="head-name center">Mrs. W.D.S Weerarathna</p>
 								</div>
-							</div>
+							</div> -->
 							
 							<div class="oc-item">
 								<div class="testimonial">
@@ -187,23 +187,23 @@
 								</div>
 							</div>
 							
-							<div class="oc-item">
+							<!-- <div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
 										<a href="#"><img src="images/lakruwan.jpg" ></a>
 									</div>
 									<p class="head-name center">Mr. Sameera Lakruwan</p>
 								</div>
-							</div>
+							</div> -->
 							
-							<div class="oc-item">
+							<!-- <div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
 										<a href="#"><img src="images/herath.jpg" ></a>
 									</div>
 									<p class="head-name center">Mr. H.M.U.K.K Herath</p>
 								</div>
-							</div>
+							</div> -->
 							
 							<div class="oc-item">
 								<div class="testimonial">
@@ -211,6 +211,33 @@
 										<a href="#"><img src="images/samarakoon1.jpg" ></a>
 									</div>
 									<p class="head-name center">Mrs. Mangala Samarakoon</p>
+								</div>
+							</div>
+							
+							<div class="oc-item">
+								<div class="testimonial">
+									<div class="testi-image">
+										<a href="#"><img src="images/Rupasinghe.jpg" ></a>
+									</div>
+									<p class="head-name center">Mrs. WWDS Rupasinghe</p>
+								</div>
+							</div>
+
+							<div class="oc-item">
+								<div class="testimonial">
+									<div class="testi-image">
+										<a href="#"><img src="images/Gayani.jpg" ></a>
+									</div>
+									<p class="head-name center">Gayani Imanthika Dias</p>
+								</div>
+							</div>
+
+							<div class="oc-item">
+								<div class="testimonial">
+									<div class="testi-image">
+										<a href="#"><img src="images/Priyankara.jpg" ></a>
+									</div>
+									<p class="head-name center">Priyankara Rajamanthree</p>
 								</div>
 							</div>
 							

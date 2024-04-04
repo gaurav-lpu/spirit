@@ -545,7 +545,8 @@ benefits of sport and healthy lifestyle.</h2>
 <div class="heading-block center">
                 <h3 class="nott center" style="font-size: 35px; letter-spacing: -1px;">Our Page </span></h3>
             </div>
-    <div class='sk-ww-linkedin-profile-post' data-embed-id='218159'></div><script src='https://widgets.sociablekit.com/linkedin-profile-posts/widget.js' async defer></script>
+            <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-55b6721f-1ba8-48fb-b29d-eb9c02c32c3e" data-elfsight-app-lazy></div>
 </section>
 <!-- 
         <div class="content-wrap">
