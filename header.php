@@ -111,17 +111,18 @@
 												<li class="menu-item">
 												<a class="menu-link" href="completed-events.php"><div>MOU SIGNING CEREMONY</div></a>
 												<a class="menu-link" href="completed-events2.php"><div>EUROPE & ASIA</div></a>
+												<a class="menu-link" href="upcoming-events.php"><div>Lisbon SPIRIT Project Meetings</div></a>
 												</li>
 											</ul>
 										</li>
 										
 										<li class="menu-item">
 											<a class="menu-link" href="#"><div>Upcoming</div></a>
-											<ul class="sub-menu-container">
+											<!-- <ul class="sub-menu-container">
 												<li class="menu-item">
 												<a class="menu-link" href="upcoming-events.php"><div>Lisbon SPIRIT Project Meetings</div></a>
 												</li>
-											</ul>											
+											</ul>											 -->
 										</li>
 									</ul>
 								</li>

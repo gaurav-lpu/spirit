@@ -30,7 +30,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>LPU</title>
+	<!-- <title>LPU</title> -->
 <style>
 
 .read-more 
@@ -79,48 +79,42 @@
 		</section>
 		
 
-	<section class="pt10">
-			<div class="container clearfix ">
-				<div class="heading-block center mb20">
-					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">Lovely Professional University </h3>
-				</div>
-					<p style="font-style: italic">Lovely Professional University has proposed a total of three courses including:<br> 1) Physical Education in sports in inclusive schools<br> 2) Exercise Science<br> 3) Motor development<br> These courses are included as a part of curriculum for Bachelor's and Master’s program. All the three courses have the 6 ECTS credits and the mode of delivery is offline mode.</p>
-					<p><strong>Infograph on Courses:</strong> <a href="images/infographs.jpg" class="more-link" target="_blank">Click Here</a></p>
-			</div>
+		<section class="pt10">
+    <div class="container clearfix">
+        <div class="heading-block center mb20">
+            <h2 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">Academic Courses</h2>
+        </div>
+        <div>
+            <div class="heading-block center mb20">
+                <h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">Lovely Professional University</h3>
+            </div>
+            <p style="font-style: italic">Lovely Professional University has proposed a total of three courses including:<br> 1) Physical Education in sports in inclusive schools<br> 2) Exercise Science<br> 3) Motor development<br> These courses are included as a part of curriculum for Bachelor's and Master’s program. All the three courses have the 6 ECTS credits and the mode of delivery is offline mode.</p>
+            <img src="images/infographs.jpg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(0.5); margin-top: -400px">
+        </div>
+    </div>
+</section>
 
-		</section>
-
-        <section class="pt10">
-			<div class="container clearfix ">
-				<div class="heading-block center mb20">
-					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">Bharati Vidhyapeeth University</h3>
-				</div>
-					<p style="font-style: italic">Bharati Vidyapeeth (Deemed to be) University based on The SPIRIT project, new courses have been prepared to meet the need for sports education. There are three new modules which are:<br> 1) Sports Nutrition<br> 2) Physical Education<br> 3) Sports Management</p>
-					<p><strong>Infograph on Courses:</strong> <a href="images/bharati.jpg" class="more-link" target="_blank">Click Here</a></p>
-			</div>
-
-		</section>
 
         <section class="pt10">
 			<div class="container clearfix ">
 				<div class="heading-block center mb20">
-					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">International School of Business and Research</h3>
+					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5); margin-top: -400px">International School of Business and Research</h3>
 				</div>
 					<p style="font-style: italic">ISBR Business School has developed programs based on The SPIRIT project. Under SPIRIT, project six courses are developed which are:<br> 1) Entrepreneurship in Sports<br> 2) Excellence in Sports Business Management<br> 3) Marketing and Communication in Sports (CC)<br> 4) Marketing and Communication in Sports (LLL)<br> 5) Sports event Management<br> 6) Nutrition and Exercise to prevent NCD</p>
-					<p><strong>Infograph on Courses:</strong> <a href="images/ISBR_1.jpg" class="more-link" target="_blank">Click Here</a></p>
+					<!-- <p><strong>Infograph on Courses:</strong> <a href="images/ISBR_1.jpg" class="more-link" target="_blank">Click Here</a></p> -->
 			</div>
-
+			<img src="images/ISBR_1.jpg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(0.5); margin-top: -400px">
 		</section>
 
 		<section class="pt10">
 			<div class="container clearfix ">
 				<div class="heading-block center mb20">
-					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">Universitas Sumatera Utara</h3>
+					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5); margin-top: -400px">Universitas Sumatera Utara</h3>
 				</div>
 					<p style="font-style: italic">Universitas Sumatera Utara has developed programs based on The SPIRIT project. Under SPIRIT project, three courses are developed which are:<br> 1) Exercise and Nutrition Management in Cancer <br> 2) The Nutritional Support in Sport and Physical Activity<br> 3) Exercise and Nutrition in Combating Tripel Burden in Asia</p>
-					<p><strong>Infograph on Courses:</strong> <a href="images/USU.jpg" class="more-link" target="_blank">Click Here</a></p>
+					<!-- <p><strong>Infograph on Courses:</strong> <a href="images/USU.jpg" class="more-link" target="_blank">Click Here</a></p> -->
 			</div>
-
+			<img src="images/USU.jpg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(0.5); margin-top: -400px">
 		</section>
 		
 </body>

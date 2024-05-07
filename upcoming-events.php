@@ -65,7 +65,7 @@ h4 {margin-bottom: 5px; font-size: 16px;}
 		<section id="page-title" class="page-title-parallax page-title-dark" data-bottom-top="background-position:0px 0px;" data-top-bottom="background-position:0px 55.082px;">			
 			<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);z-index:0;"></div>
 			<div class="container clearfix">
-			<h3>Upcoming LISBON Event 11 September 2023 to 15 September 2023</h3>
+			<h3>LISBON Event 11 September 2023 to 15 September 2023</h3>
 
 				<!-- <div class="float-left slider-caption ">
 					<h3>Upcoming LISBON Event 11 Sept 2023 to 15 Sept 2023</h3>
