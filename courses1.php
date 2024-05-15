@@ -94,7 +94,6 @@
     </div>
 </section>
 
-
         <section class="pt10">
 			<div class="container clearfix ">
 				<div class="heading-block center mb20">
@@ -116,6 +115,45 @@
 			</div>
 			<img src="images/USU.jpg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(0.5); margin-top: -400px">
 		</section>
+
+		<section class="pt10">
+			<div class="container clearfix ">
+				<div class="heading-block center mb20">
+					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5); margin-top: -400px">Universitas Syiah Kuala</h3>
+				</div>
+					<p style="font-style: italic">Universitas Syiah Kuala has developed and piloted courses based on the SPIRIT project, the three courses are:<br> 1) Sport Technology and Industry <br> 2) Sport Medicine<br> 3) Food for special needs</p>
+			</div>
+			<img src="images/USK.jpg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(1.0);  margin-top: 70px">
+		</section>
+
+		<section class="pt10">
+			<div class="container clearfix ">
+				<div class="heading-block center mb20">
+					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5); margin-top: 70px">Sabaragamuwa University of Sri Lanka</h3>
+				</div>
+					<p style="font-style: italic">Sabaragamuwa University of Sri Lanka has developed and piloted courses based on the SPIRIT project, the five courses are:<br> 1) Nutrition for Heath and Fitness <br> 2) Exercise Physiology<br> 3) Motor Development<br> 4) Personal and Social Development and Inclusion <br> 5) Psychology of Sport and Exercise</p>
+			</div>
+			<img src="images/SUSL.jpeg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(0.5);  margin-top: -370px">
+		</section>
 		
+		<section class="pt10">
+			<div class="container clearfix ">
+				<div class="heading-block center mb20">
+					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5); margin-top: -380px">Institut Pertanian Bogor University</h3>
+				</div>
+					<p style="font-style: italic">Institut Pertanian Bogor has developed and piloted courses based on the SPIRIT project, the three courses are:<br> 1) Sport Nutrition <br> 2) Nutrition for Sport and Fitness<br> 3) Nutrtion and Exercise Metabolism</p>
+			</div>
+			<img src="images/IPB.jpeg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(0.6);  margin-top: -300px">
+		</section>
+
+		<section class="pt10">
+			<div class="container clearfix ">
+				<div class="heading-block center mb20">
+					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5); margin-top: -290px">Bharathi Vidyapeeth University</h3>
+				</div>
+					<p style="font-style: italic">Bharathi Vidyapeeth University has developed and piloted courses based on the SPIRIT project, the three courses are:<br> 1) Sports Nutrition for Exercise and Performance <br> 2) Motor Development <br> 3) Innovation and Entrepreneurship in Sports</p>
+			</div>
+			<img src="images/BVP.jpeg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(0.6);  margin-top: -290px">
+		</section>
 </body>
 </html>

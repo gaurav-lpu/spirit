@@ -1,252 +1,98 @@
 <!DOCTYPE html>
-<html lang="en">
+<html dir="ltr" lang="en-US">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CSS Box Hover Effect</title>
-  <link rel="stylesheet" href="styles.css"> <!-- If your styles are in an external CSS file -->
-  <style>
-    body {
-  font-family: 'Poppins', sans-serif;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-image: url('path/to/your/image.jpg');
-  background-size: cover; /* Cover the entire background */
-  background-position: center; /* Center the background image */
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="SemiColonWeb" />
+
+	<!-- Stylesheets
+	============================================= -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="stylesheet" href="css/dark.css" type="text/css" />
+	<link rel="stylesheet" href="css/swiper.css" type="text/css" />
+	<!-- Crowdfunding Demo Specific Stylesheet -->
+	<link rel="stylesheet" href="demos/crowdfunding/crowdfunding.css" type="text/css" />
+	<link rel="stylesheet" href="demos/crowdfunding/css/fonts.css" type="text/css" />	<!-- / -->
+	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="css/animate.css" type="text/css" />
+	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+	<link rel="stylesheet" href="css/menu.css" type="text/css" /> 
+	<link rel="stylesheet" href="css/custom.css" type="text/css" />	
+	<link rel="stylesheet" href="css/team-silder.css" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/layers.css">
+	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/navigation.css">
+	
+<!--	<link rel="stylesheet" href="css/colors.php?color=209EBB" type="text/css" />-->
+
+	<!-- Document Title
+	============================================= -->
+	<!-- <title>LPU</title> -->
+<style>
+
+.read-more 
+   {background-color: #fff;
+   border: 0px;
+   border-bottom: 1px solid #1b439b;
+   color: #1b439b;
+   padding: 0 2px;
+   font-style: italic;	
 }
 
-.quotes .box {
-  flex: 0 0 20%;
-  position: relative;
-  height: 250px; /* Set a fixed height */
-  background: #f2f2f2;
-  overflow: hidden;
-  transition: all 0.5s ease-in;
-  z-index: 2;
-  box-sizing: border-box;
-  padding: 15px;
-  margin: 10px;
-  box-shadow: -10px 25px 50px rgba(0, 0, 0, 0.3);
-  width:520px
-}
+</style>  
 
-.quotes {
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: flex-start; /* Align items to the start of the container */
-  z-index: 2;
-}
 
-/* */
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S7PE0LWDGE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-.quotes .box::before {
-  content: '\201C';
-  position: absolute;
-  top: -20px;
-  left: 5px;
-  width: 100%;
-  height: 100%;
-  font-size: 120px;
-  opacity: 0.2;
-  background: transparent;
-  pointer-events: none;
-}
+  gtag('config', 'G-S7PE0LWDGE');
+</script>
 
-.quotes .box::after {
-  content: '\201D';
-  position: fixed;
-  bottom: -10%;
-  right: 5%;
-  font-size: 120px;
-  opacity: 0.2;
-  background: transparent;
-  filter: invert(1);
-  pointer-events: none;
-}
-
-.quotes .box p {
-  margin: 0;
-  padding: 10px;
-  font-size: 1.2rem;
-  height: 80px; /* Set height to 100% of the box */
-  overflow: hidden; /* Ensure that the content doesn't overflow */
-  word-wrap: break-word; /* Break words if they exceed the box width */
-}
-
-.quotes .box h2 {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-/* .quotes .box:hover {
-  color: #f2f2f2;
-  box-shadow: 20px 50px 100px rgba(0, 0, 0, 0.5);
-} */
-
-.quotes .bg {
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  opacity: 0;
-  transition: all 0.5s ease-in;
-  pointer-events: none;
-  width: 100%;
-  height: 200%;
-  overflow: hidden;
-}
-
-/* .quotes .box.box1:hover,
-.quotes .box.box1:hover~.bg {
-  opacity: 1;
-  background: #e2a9e5;
-background: -moz-linear-gradient(-45deg, #e2a9e5 15%, #2b94e5 100%);
-background: -webkit-linear-gradient(-45deg, #e2a9e5 15%,#2b94e5 100%);
-background: linear-gradient(135deg, #e2a9e5 15%,#2b94e5 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2a9e5', endColorstr='#2b94e5',GradientType=1 );
-} */
-
-/* .quotes .box.box2:hover,
-.quotes .box.box2:hover~.bg {
-  opacity: 1;
-  background: #632c65;
-background: -moz-linear-gradient(-45deg, #632c65 15%, #56a5e2 100%);
-background: -webkit-linear-gradient(-45deg, #632c65 15%,#56a5e2 100%);
-background: linear-gradient(135deg, #632c65 15%,#56a5e2 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#632c65', endColorstr='#56a5e2',GradientType=1 );
-} */
-
-/* .quotes .box.box3:hover,
-.quotes .box.box3:hover~.bg {
-  opacity: 1;
-  background: #4b384c;
-background: -moz-linear-gradient(-45deg, #4b384c 15%, #da5de2 100%);
-background: -webkit-linear-gradient(-45deg, #4b384c 15%,#da5de2 100%);
-background: linear-gradient(135deg, #4b384c 15%,#da5de2 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4b384c', endColorstr='#da5de2',GradientType=1 );
-} */
-
-  </style>
 </head>
-<body>
-<h1 style="text-align: center;">Courses Overview</h1><br>
-  <h3 style="text-align: center;">My Courses</h3><br>
-  <div class="quotes">
-    <!-- <div class="card">
-      <div class="box box3">
-        <p>Erasmus + Course on Learning and E-Learning.</p>
-        <h2>ERASMUS PLUS</h2>
-      </div>
-      <div class="bg"></div>
+
+<body class="stretched">
+
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
+<?php include('header.php'); ?>
+
+<section id="slider" class="slider-element swiper_wrapper min-vh-50">
+			<div class="slider-inner">
+
+				<div class="swiper-container swiper-parent">
+					<div class="swiper-wrapper">						
+						<div class="swiper-slide dark">
+							<div class="swiper-slide-bg" style="background-image: url('images/education1.png');"></div>
+						</div>												
+					</div>					
+				</div>
+
+			</div>
+		</section>
+		
+
+		<section class="pt10">
+    <div class="container clearfix">
+        <div class="heading-block center mb20">
+            <h2 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">Life Long Learning Courses</h2>
+        </div>
+        <!-- <div>
+            <div class="heading-block center mb20">
+                <h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);">Lovely Professional University</h3>
+            </div>
+            <p style="font-style: italic">Lovely Professional University has proposed a total of three courses including:<br> 1) Physical Education in sports in inclusive schools<br> 2) Exercise Science<br> 3) Motor development<br> These courses are included as a part of curriculum for Bachelor's and Master’s program. All the three courses have the 6 ECTS credits and the mode of delivery is offline mode.</p>
+            <img src="images/infographs.jpg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(0.5); margin-top: -400px">
+        </div> -->
     </div>
-    <div class="card">
-      <div class="box box3">
-        <p>Your smile will give you a positive countenance that will make people feel comfortable around you. </p>
-        <h2>Les Brown</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-    <div class="card">
-      <div class="box box3">
-        <p>Before anything else, preparation is the key to success. </p>
-        <h2>Alexander Graham Bell</h2>
-      </div>
-      <div class="bg"></div>
-    </div> -->
-	<div class="card">
-      <div class="box box1">
-        <p style="text-align: center">Erasmus + Course on Learning and E-Learning</p>
-        <h2 style="text-align: center">ERASMUS PLUS</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box2">
-        <p style="text-align: center">Erasmus+ Playground 1</p>
-        <h2 style="text-align: center">ERASMUS PLUS</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box3">
-        <p style="text-align: center">Erasmus+ Playground 2</p>
-        <h2 style="text-align: center">ERASMUS PLUS</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box4">
-        <p style="text-align: center">EU-SPIRIT: Excellence in Managing Fitness and Wellness Center</p>
-        <h2 style="text-align: center">EU-SPIRIT Erasmus+ Life Long Learning Courses</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box5">
-        <p style="text-align: center">EU-SPIRIT: Exercise and Nutrition Management in Cancer</p>
-        <h2 style="text-align: center">EU-SPIRIT Erasmus+ Life Long Learning Courses</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box6">
-        <p style="text-align: center">EU-SPIRIT: Innovative Teaching strategies for Inclusion</p>
-        <h2 style="text-align: center">EU-SPIRIT Erasmus+ Life Long Learning Courses</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box7">
-        <p style="text-align: center">EU-SPIRIT: Marketing and Communication for Sports</p>
-        <h2 style="text-align: center">EU-SPIRIT Erasmus+ Life Long Learning Courses</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box8">
-        <p style="text-align: center">EU-SPIRIT: Nutrition, Exercise and Healthy Lifestyle</p>
-        <h2 style="text-align: center">EU-SPIRIT Erasmus+ Life Long Learning Courses</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box9">
-        <p style="text-align: center">EU-SPIRIT: Sport Technology and Industry</p>
-        <h2 style="text-align: center">EU-SPIRIT Erasmus+ Life Long Learning Courses</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box10">
-        <p style="text-align: center">EU-SPIRIT: Sports – Health , Fitness, Injury & Rehabilitation</p>
-        <h2 style="text-align: center">EU-SPIRIT Erasmus+ Life Long Learning Courses</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box11">
-        <p style="text-align: center">EU-SPIRIT: Traditional Sport and Out door activities</p>
-        <h2 style="text-align: center">EU-SPIRIT Erasmus+ Life Long Learning Courses</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-	<div class="card">
-      <div class="box box12">
-        <p style="text-align: center">EU-SPIRIT: Traditional Sports</p>
-        <h2 style="text-align: center">EU-SPIRIT Erasmus+ Life Long Learning Courses</h2>
-      </div>
-      <div class="bg"></div>
-    </div>
-  </div>
+</section>
+		
 </body>
 </html>
