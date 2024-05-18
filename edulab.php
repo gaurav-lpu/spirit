@@ -107,12 +107,12 @@
 						<div class="col-12">						
 							<div class="grid-inner row align-items-center no-gutters">
 								<div class="entry-image col-md-2">
-									<a href="#"><img src="images/edulab-project-coordinator.jpg" ></a>
+									<a href="#"><img src="images/Tiffany-coordinator.jpg" ></a>
 								</div>
 									<div class="col-md-10 pl-md-4 ">
-									<p class="head-name head-color">Mr. Damien Hanet<br>
+									<p class="head-name head-color">Miss. Tiffany Correia<br>
 									<span>Coordinator</span></p>
-									<p class="lpu-top25">After his graduation, he joined Edulab in India. There he managed the BRIC internship scheme coordinated by the “Le Forem” Wallonia’s Unemployment Governmental Agency and multiple capacity building programmes in Europe and Asia. He also Co-founded World Fellow, a company that promotes international mobility through educational programs.</p>			
+									<p class="lpu-top25">She works as a Software Developer at Edulab Educational Exchange Pvt Ltd. In her role, she continuously strives to enhance the platform's functionality, making learning more accessible and engaging for all. With a keen eye for innovation and a passion for education, she is the driving force behind the development of the Spirit website.</p>			
 								</div></div>	
 												
 						</div>
