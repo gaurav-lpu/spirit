@@ -6,8 +6,8 @@
 						<!-- Logo
 						============================================= -->
 						<div id="logo">
-							<a href="index.php" class="standard-logo pt10 pb5" data-dark-logo="images/logo.jpg"><img src="images/logo.jpg" alt="Logo Here"></a>
-							<a href="index.php" class="retina-logo" data-dark-logo="images/logo.jpg"><img src="images/logo.jpg" alt="Logo"></a>
+							<a href="index.php" class="standard-logo pt10 pb5" data-dark-logo="images/logo/NewLogo.jpeg"><img src="images/logo/NewLogo.jpeg" alt="Logo Here"></a>
+							<a href="index.php" class="retina-logo" data-dark-logo="images/logo/NewLogo.jpeg"><img src="images/logo/NewLogo.jpeg" alt="Logo"></a>
 						</div><!-- #logo end -->
 						
 						<div id="top-search" class="header-misc-icon"></div>
@@ -46,7 +46,7 @@
 													<a class="menu-link" href="isbr.php"><div>International School of Business and Research</div></a>
 												</li>
 												<li class="menu-item">
-													<a class="menu-link" href="edulab.php"><div>Edulab Educational Pvt. Ltd</div></a>
+													<a class="menu-link" href="edulab.php"><div>Edulab Educational Exchange Pvt. Ltd</div></a>
 												</li>
 											</ul>
 										</li>
@@ -117,7 +117,7 @@
 										</li>
 										
 										<li class="menu-item">
-											<a class="menu-link" href="#"><div>Upcoming</div></a>
+											<a class="menu-link" href="upcoming-events.php"><div>Upcoming</div></a>
 											<!-- <ul class="sub-menu-container">
 												<li class="menu-item">
 												<a class="menu-link" href="upcoming-events.php"><div>Lisbon SPIRIT Project Meetings</div></a>
