@@ -168,10 +168,10 @@ h4 {margin-bottom: 5px; font-size: 16px;}
 							
 								<div class="col-md-4 col-lg-4">
 								<div class="testimonial grid-outer">
-								<h4 class="mb5">Mr. Damien Hanet</h4>
+								<h4 class="mb5">Miss. Tiffany Correia</h4>
 								<p class="mb5 in-font-s"><strong>Partner Institution:</strong> <br>
 								<em class="in-font-s">Edulab Educational Exchange Private Limited</em></p>		
-								<p class="in-font-s"><strong>Email:</strong> <a href="mailto:damien@edulab.in">damien@edulab.in</a></p>
+								<p class="in-font-s"><strong>Email:</strong> <a href="mailto:tiffany@edulab.in">tiffany@edulab.in</a></p>
 							</div></div>
 							
 							<div class="col-md-4 col-lg-4">
