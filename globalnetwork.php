@@ -90,7 +90,6 @@ h4 {margin-bottom: 5px; font-size: 16px;}
 				</div>
                 <p>The SPIRIT project is a significant initiative undertaken as part of the ERASMUS+ program, focusing on harnessing the power of sport and physical education to foster inclusion and recognition in diverse cultural contexts, namely India, Indonesia, and Sri Lanka. As an integral part of the ERASMUS+ program, SPIRIT aims to contribute to the advancement of social cohesion, cultural understanding, and inclusive practices through sport-related activities and educational interventions.</p><br>
                 <h3 style="color: #E44D26; font-size: 28px; font-weight: normal; text-align: center; margin: 20px 0; font-family: 'Verdana', sans-serif; text-transform: uppercase; letter-spacing: 1px; /* Add text-shadow for a subtle shadow effect */ text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);">The Page</h3>
-                <!-- <div class='sk-ww-linkedin-page-post' data-embed-id='238071'></div><script src='https://widgets.sociablekit.com/linkedin-page-posts/widget.js' async defer></script>			 -->
 				<script type="text/javascript" src="https://www.juicer.io/embed/global-spirit-club-network/embed-code.js" async defer></script>
 
 		</section>

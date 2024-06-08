@@ -6,8 +6,8 @@
 						<!-- Logo
 						============================================= -->
 						<div id="logo">
-							<a href="index.php" class="standard-logo pt10 pb5" data-dark-logo="images/logo/NewLogo.jpeg"><img src="images/logo/NewLogo.jpeg" alt="Logo Here"></a>
-							<a href="index.php" class="retina-logo" data-dark-logo="images/logo/NewLogo.jpeg"><img src="images/logo/NewLogo.jpeg" alt="Logo"></a>
+							<a href="index.php" class="standard-logo pt10 pb5" data-dark-logo="images/logo/SpiritLogo.jpeg"><img src="images/logo/SpiritLogo.jpeg" alt="Logo Here"></a>
+							<a href="index.php" class="retina-logo" data-dark-logo="images/logo/SpiritLogo.jpeg"><img src="images/logo/SpiritLogo.jpeg" alt="Logo"></a>
 						</div><!-- #logo end -->
 						
 						<div id="top-search" class="header-misc-icon"></div>
@@ -232,8 +232,11 @@
 											<a class="menu-link" href="#"><div>Spirit-Newsletters</div></a>
 											<ul class="sub-menu-container">
 												<li class="menu-item">
-												<a class="menu-link" href="Newsletter_1.pdf"><div>1st Newsletter</div></a>
-												<a class="menu-link" href="Newsletter_2.pdf"><div>2nd Newsletter</div></a>
+												<a class="menu-link" href="Newsletter_1.pdf" target="_blank"><div>1st Newsletter</div></a>
+												<a class="menu-link" href="Newsletter_2.pdf" target="_blank"><div>2nd Newsletter</div></a>
+												<a class="menu-link" href="Final_Newsletter_3.pdf" target="_blank"><div>3rd Newsletter</div></a>
+												<a class="menu-link" href="Final_Newsletter_4.pdf" target="_blank"><div>4th Newsletter</div></a>
+												<a class="menu-link" href="Final_Newsletter_5.pdf" target="_blank"><div>5th Newsletter</div></a>
 												</li>
 											</ul>
 										</li>
