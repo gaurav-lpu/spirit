@@ -192,7 +192,6 @@
 </head>
 
 <body class="stretched">
-  <!-- Document Wrapper ============================================= -->
   <div id="wrapper" class="clearfix">
     <?php include ('header.php'); ?>
 
@@ -221,16 +220,14 @@
           <img src="images/logo/1.jpg" alt="University 1">
           <img src="images/logo/2.jpg" alt="University 2">
           <img src="images/logo/3.jpg" alt="University 3">
-          <img src="images/logo/4.jpg" alt="University 1">
-          <img src="images/logo/5.jpg" alt="University 1">
-          <img src="images/logo/6.jpg" alt="University 1">
-          <img src="images/logo/7.jpg" alt="University 1">
-          <img src="images/logo/8.jpg" alt="University 1">
-          <img src="images/logo/9.jpg" alt="University 1">
-          <img src="images/logo/10.jpg" alt="University 1">
-          <img src="images/logo/11.jpg" alt="University 1">
-
-          <!-- Add more images as needed -->
+          <img src="images/logo/4.jpg" alt="University 4">
+          <img src="images/logo/5.jpg" alt="University 5">
+          <img src="images/logo/6.jpg" alt="University 6">
+          <img src="images/logo/7.jpg" alt="University 7">
+          <img src="images/logo/8.jpg" alt="University 8">
+          <img src="images/logo/9.jpg" alt="University 9">
+          <img src="images/logo/10.jpg" alt="University 10">
+          <img src="images/logo/11.jpg" alt="University 11">
         </div>
       </div>
     </section>
