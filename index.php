@@ -546,7 +546,7 @@ benefits of sport and healthy lifestyle.</h2>
                 <h3 class="nott center" style="font-size: 35px; letter-spacing: -1px;">Our Page </span></h3>
             </div>
             <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-55b6721f-1ba8-48fb-b29d-eb9c02c32c3e" data-elfsight-app-lazy></div>
+<div class="elfsight-app-55b6721f-1ba8-48fb-b29d-eb9c02c32c3e"></div>
 </section>
 <!-- 
         <div class="content-wrap">

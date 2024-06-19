@@ -157,7 +157,7 @@
 									<div class="testi-image">
 										<a href="#"><img src="images/Veena.jpeg" ></a>
 									</div>
-									<p class="head-name center">Dr Veena Shenoy</p>
+									<p class="head-name center">Dr. Veena Shenoy</p>
 								</div>
 							</div>
 							

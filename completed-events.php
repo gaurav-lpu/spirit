@@ -79,7 +79,7 @@ h4 {margin-bottom: 5px; font-size: 16px;}
 			<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);z-index:0;"></div>
 			<div class="container clearfix">
 				<div class="float-left slider-caption ">
-					<h1>Completed Events</h1>					
+					<h1 style="display: flex; justify-content: center; align-items: center; width: 100%;">Completed Events - MOU Signing Ceremony</h1>					
 				</div>
 			</div>
 		</section>
