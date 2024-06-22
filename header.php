@@ -109,10 +109,18 @@
 											<a class="menu-link" href="#"><div>Completed</div></a>
 											<ul class="sub-menu-container">
 												<li class="menu-item">
-												<a class="menu-link" href="completed-events.php"><div>MOU SIGNING CEREMONY</div></a>
-												<a class="menu-link" href="completed-events2.php"><div>EUROPE & ASIA</div></a>
-												<a class="menu-link" href="upcoming-events.php"><div>Lisbon SPIRIT Project Meetings</div></a>
-												</li>
+												<a class="menu-link" href="unic.php"><div>Technical Training Cyprus (University Of Nicosia)</div></a></li>
+												<li class="menu-item">
+												<a class="menu-link" href="isbrevent.php"><div>ISBR (International School of Business and Research) visit</div></a></li>
+												<li class="menu-item">
+												<a class="menu-link" href="uskvisit.php"><div>USK (Universitas Syiah Kuala) visit</div></a></li>
+												<li class="menu-item">
+												<a class="menu-link" href="lisbonvisit.php"><div>University of Lisbon visit</div></a></li>
+												<li class="menu-item">
+												<a class="menu-link" href="srilankavisit.php"><div>University of Peradeniya and Sabaragamuwa University of Sri Lanka visit</div></a></li>
+												<li class="menu-item">
+												<a class="menu-link" href="completed-events.php"><div>MOU Signing Ceremony</div></a></li>
+												<!-- <a class="menu-link" href=""><div>Lisbon SPIRIT Project Meetings</div></a> -->
 											</ul>
 										</li>
 										

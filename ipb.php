@@ -142,9 +142,9 @@
 							<div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
-										<a href="#"><img src="images/hunaefi.jpg" ></a>
+										<a href="#"><img src="images/Muhammad Aries.jpeg" ></a>
 									</div>
-									<p class="head-name center">Dr. Dase Hunaefi</p>
+									<p class="head-name center">Muhammad Aries, SP, MSi</p>
 								</div>
 							</div>
 							
@@ -178,15 +178,11 @@
 								<div class="oc-item">
 								<div class="testimonial">
 									<div class="testi-image">
-										<a href="#"><img src="images/sujateruna.jpg" ></a>
+										<a href="#"><img src="images/Prof Ujang.jpeg" ></a>
 									</div>
-									<p class="head-name center">Mr. Hagi Sujateruna</p>
+									<p class="head-name center">Prof Ujang Sumarwan, MSc</p>
 								</div>
 							</div>
-							
-							
-							
-							
 
 						</div>
 					</div>
