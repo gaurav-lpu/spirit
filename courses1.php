@@ -155,5 +155,15 @@
 			</div>
 			<img src="images/BVP.jpeg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(0.6);  margin-top: -290px">
 		</section>
+
+		<section class="pt10">
+			<div class="container clearfix ">
+				<div class="heading-block center mb20">
+					<h3 style="text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5); margin-top: -290px">University Of Peradeniya</h3>
+				</div>
+					<p style="font-style: italic">Bharathi Vidyapeeth University has developed and piloted courses based on the SPIRIT project, the three courses are:<br> 1) Sports Nutrition for Exercise and Performance <br> 2) Motor Development <br> 3) Innovation and Entrepreneurship in Sports</p>
+			</div>
+			<img src="images/UOP_info.jpg" alt="Infograph" style="display: block; margin: 0 auto; transform: scale(0.6);  margin-top: -290px">
+		</section>
 </body>
 </html>
