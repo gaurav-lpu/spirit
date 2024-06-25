@@ -85,8 +85,8 @@
 	<section class="pt10">
 			<div class="container clearfix ">
 				<div class="heading-block center mb20">
-					<h3>EduLab Education Exchange Pvt. Ltd.</h3>
-					<span class="mt0">University Profile</span>
+					<h3>Edulab Education Exchange Pvt. Ltd.</h3>
+					<span class="mt0">Profile</span>
 				</div>
 					<p>Edulab Education Exchange Pvt. Ltd. is an organization that has been working for 13 years in the education sector. Our main activities are: partnering with colleges and universities to foster internationalization of its student population and creating partnership between them and non-Indian institution, spearheading the Indian side of the BRIC Internship Scheme coordinated by the “Le Forem” Wallonia’s Unemployment government agency, managing on the field and as back up the “US English Access Program” scheme funded by the US State department, managing the Indian part of the Sino-Indian student exchange program in collaboration with the CPAFFC. Edulab is also the company behind the web platform Admissiondesk.org which promotes “Study In India” and offers a list of scholarships which are available to students.</p>
 					
@@ -112,7 +112,7 @@
 									<div class="col-md-10 pl-md-4 ">
 									<p class="head-name head-color">Miss. Tiffany Correia<br>
 									<span>Coordinator</span></p>
-									<p class="lpu-top25">She works as a Software Developer at Edulab Educational Exchange Pvt Ltd. In her role, she continuously strives to enhance the platform's functionality, making learning more accessible and engaging for all. With a keen eye for innovation and a passion for education, she is the driving force behind the development of the Spirit website.</p>			
+									<p class="lpu-top25">She works as a Software Developer at Edulab Educational Exchange Pvt Ltd. In her role, she continuously strives to enhance the platform's functionality, making learning more accessible and engaging for all. With a keen eye for innovation and a passion for education, she is the driving force behind the development of the SPIRIT website.</p>			
 								</div></div>	
 												
 						</div>
