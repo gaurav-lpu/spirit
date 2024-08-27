@@ -97,7 +97,6 @@
 
 		</section>
 		
-		
 		<section id="content page-title">
 			<div class="content-wrap pt10  mb0 ">
 				<div class="container clearfix">
@@ -112,7 +111,7 @@
 									<div class="col-md-10 pl-md-4 ">
 									<p class="head-name head-color">Miss. Tiffany Correia<br>
 									<span>Coordinator</span></p>
-									<p class="lpu-top25">She works as a Software Developer at Edulab Educational Exchange Pvt Ltd. In her role, she continuously strives to enhance the platform's functionality, making learning more accessible and engaging for all. With a keen eye for innovation and a passion for education, she is the driving force behind the development of the SPIRIT website.</p>			
+									<p>She works as a Software Developer at Edulab Educational Exchange Pvt Ltd. In her role, she continuously strives to enhance the platform's functionality, making learning more accessible and engaging for all. With a keen eye for innovation and a passion for education, she is the driving force behind the development of the SPIRIT website.</p>			
 								</div></div>	
 												
 						</div>

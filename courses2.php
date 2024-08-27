@@ -51,55 +51,33 @@
 
     .bubble-container {
       display: flex;
-      justify-content: center;
       align-items: center;
-      gap: 130px;
-      /* Adjust the gap between bubbles as needed */
-      margin-top: 50px;
-      /* Adjust the top margin as needed */
+      justify-content: center;
+      padding: 20px;
+      border: 2px solid #000; /* Add border outline */
+      border-radius: 10px;
+      margin: 20px; /* Add margin if needed */
     }
 
     .bubble {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      width: 200px;
-      height: 200px;
-      margin: 20px;
-      border-radius: 50%;
-      background-color: lightblue;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-      text-align: center;
-      font-size: 1.2em;
-      color: #333;
-      transition: transform 0.3s, background-color 0.3s;
-      cursor: pointer;
-      overflow: hidden;
-      /* Ensures content stays within the bubble */
-      padding: 10px;
-      /* Adds some padding for better text spacing */
-    }
-
-    .bubble p {
-      margin: 0;
-      /* Remove default margins for paragraphs */
-      padding: 0 10px;
-      /* Add padding for better text spacing */
-      word-wrap: break-word;
-      /* Ensure long words break to the next line */
-      text-align: center;
-      /* Center the text */
-    }
-
-    .bubble:hover {
-      background-color: whitesmoke;
-      transform: scale(1.05);
-    }
-
-    /* .bubble p {
-      margin: 0;
+      display: inline-block;
+      background-color: #f0f0f0;
       padding: 20px;
-    } */
+      border-radius: 50%; /* Make it circular */
+      cursor: pointer;
+      margin: 0 10px;
+      width: 150px; /* Set a fixed width */
+      height: 150px; /* Set a fixed height */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    .arrow-container img {
+      transform: scale(0.2);
+      margin-left: -90px;
+    }
 
     .popup-content {
       display: none;
@@ -143,6 +121,25 @@
         transform: translate(-50%, 50%);
         opacity: 0;
       }
+    }
+
+    .bubble-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      border: 2px solid #000; /* Add border outline */
+      border-radius: 10px;
+      margin: 20px; /* Add margin if needed */
+    }
+
+    .bubble {
+      display: inline-block;
+      background-color: #f0f0f0;
+      padding: 20px;
+      border-radius: 10px;
+      cursor: pointer;
+      margin: 0 10px;
     }
 
     .popup-content.active {
@@ -233,33 +230,20 @@
     </section>
 
     <div class="bubble-container">
-      <div class="bubble" onclick="showPopup('what')">
-        <p style="font-size: 25px">What is LLL?</p>
-      </div>
-      <div class="bubble" onclick="showPopup('why')">
-        <p style="font-size: 23px">Why are LLL courses essential to learn?</p>
-      </div>
+    <div class="image-container">
+      <img src="images/LLL.png" alt="Your Image">
+    </div>
+    <div class="arrow-container" style="transform-scale: (0.2)">
+      <img src="images/arrow-img.jpg" alt="Arrow" style="transform-scale: (0.2)">
+    </div>
+    <div class="button-container">
       <div class="bubble" onclick="showPopup('login')">
-        <a href="https://courses.unic.ac.cy/pages/login.php" target="_blank"
-          style="font-size: 20px; text-decoration: none; color: inherit;">
+        <a href="https://courses.unic.ac.cy/pages/login.php" target="_blank">
           Click Here to checkout courses from different universities.
         </a>
       </div>
-
-      <div id="popup-what" class="popup-content" onclick="event.stopPropagation()">
-        <h3>What is LLL?</h3>
-        <p>Life Long Learning (LLL) is the ongoing, voluntary, and self-motivated pursuit of knowledge for personal or
-          professional development. It enhances social inclusion, active citizenship, and personal development, as well
-          as
-          competitiveness and employability.</p>
-      </div>
-
-      <div id="popup-why" class="popup-content" onclick="event.stopPropagation()">
-        <h3>Why are LLL courses essential to learn?</h3>
-        <p>LLL is crucial in today's fast-changing world. It helps individuals stay relevant, adapt to changes, and be
-          proactive in their personal and professional lives. It fosters a culture of continuous improvement and
-          innovation.</p>
-      </div>
+    </div>
+  </div>
 
       <script>
         function showPopup(type) {

@@ -37,13 +37,7 @@
     <link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="include/rs-plugin/css/layers.css">
     <link rel="stylesheet" type="text/css" href="include/rs-plugin/css/navigation.css">
-
     <!--	<link rel="stylesheet" href="css/colors.php?color=209EBB" type="text/css" />-->
-
-
-
-
-
 
     <!-- Document Title
     ============================================= -->
@@ -353,90 +347,6 @@
             </div>
         </section>
 
-        <!--pop-up email id
-        =========================================================-->
-        <!-- <div class="popup">
-    <div class="popup-content">
-      <span class="close">&times;</span>
-      <h4>Would You Like To Receive Our News Letter Updates</h4>
-      <h4>Enter your email address</h4>
-      <input type="email" id="emailInput" placeholder="Your email">
-      <button type="submit">Submit</button>
-    </div>
-  </div> -->
-
-        <!--pop-up email id
-        =========================================================-->
-
-        <!-- Content
-        ============================================= -->
-        <!-- <section id="content">
-            <div class="content-wrap pt50">
-                <div class="container mw-md ">
-                    <div class="row justify-content-between align-items-center">
-                        <div class="col-md-12 text-center">
-                            <h3 class="nott center" style="font-size: 35px; letter-spacing: -1px;">Upcoming <span>
-                                    Events </span></h3>
-                            </div>
-
-                        <div class="col-md-12 mt-4 mt-md-0">
-                            <div class="fslider testimonial testimonial-full grid-outer " data-animation="fade"
-                                data-arrows="false">
-                                <div class="flexslider">
-                                    <div class="slider-wrap"> -->
-
-        <!--<div class="slide">
-                                                <div class="testi-content">
-                                                    <h1 class="mb0">Survey and report with recommendation for implementation of SPIRIT curriculum package</h1>
-                                                    <p class="center">(MAY 2021)</p>
-                                                </div>
-                                            </div>-->
-        <!-- <div class="slide">
-                                            <div class="testi-content">
-                                                <h2 class="mb0">Curriculum development strategy meeting for selected
-                                                    modular courses</h2>
-                                                <p style="" class="center">(DEC 2021)</p>
-                                            </div>
-                                        </div>
-
-                                        <div class="slide">
-                                            <div class="testi-content">
-                                                <h2 class="mb0">Designing of training programs.</h2>
-                                                <p class="center">(JUNE 2021- SEPT 2021)</p>
-                                            </div>
-                                        </div>
-                                        <div class="slide">
-                                            <div class="testi-content">
-                                                <h2 class="mb0">Sport club’s creation</h2>
-                                                <p class="center">(JUNE 2021 – DEC 2021)</p>
-                                            </div>
-                                        </div>
-                                        <div class="slide">
-                                            <div class="testi-content">
-                                                <h2 class="mb0">Training of selected teachers in Europe and Asia</h2>
-                                                <p class="center">(JULY, SEPT, NOV 2021)</p>
-                                            </div>
-                                        </div>
-                                        <div class="slide">
-                                            <div class="testi-content">
-                                                <h2 class="mb0">Training on VLE by UNIC</h2>
-                                                <p class="center">(SEPT, NOV 2021)</p>
-                                            </div>
-                                        </div> -->
-        <!--<div class="slide">
-                                                <div class="testi-content">
-                                                    <h2 class="mb0">Round tables, job fairs, participation in sport events to raise awareness of
-benefits of sport and healthy lifestyle.</h2>
-                                                    <p class="center">(NOV, DEC 2021)</p>
-                                                </div>
-                                            </div>-->
-        <!-- </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-
         <section class="about-section-cl" id="content">
             <div class="content-wrap pb " style="padding-top: 0px; padding-bottom:0px;">
 
@@ -447,7 +357,6 @@ benefits of sport and healthy lifestyle.</h2>
                     <div class="col-md-7 col-padding">
                         <div>
                             <div class="col-lg-12">
-                                <!--<span class="before-heading color">CEO &amp; Co-Founder</span>-->
                                 <h3 class="nott" style="font-size: 35px; letter-spacing: -1px;">About <span>
                                         Project </span></h3>
                             </div>
